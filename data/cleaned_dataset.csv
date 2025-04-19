@@ -129,7 +129,7 @@ INFINITI,Q70h Base,2016,52.75,Hybrid,7-Speed A/T,1,28998,3.5,360.0,20,1254
 Audi,A7 Premium Plus,2020,25.361,Hybrid,Automatic,0,49998,3.0,,3,197
 Audi,Q7 3.0T Premium Plus,2015,98.527,Gasoline,8-Speed A/T,0,9995,3.0,280.0,3,1247
 Lucid,Air Pure,2023,1.3,Electric,A/T,0,86900,,620.0,30,259
-Chrysler,Pacifica Touring,2017,87.305,–,9-Speed A/T,0,9000,,,10,1179
+Chrysler,Pacifica Touring,2017,87.305,Electric,9-Speed A/T,0,9000,,,10,1179
 Audi,TTS 2.0T Premium Plus,2012,72.922,Gasoline,6-Speed A/T,0,25999,2.0,265.0,3,1660
 BMW,650 Gran Coupe i xDrive,2015,41.0,Gasoline,8-Speed A/T,0,30000,4.4,445.0,4,114
 Subaru,Forester Premium,2021,42.125,Gasoline,Automatic CVT,0,27899,2.5,,50,725
@@ -256,7 +256,7 @@ Mercedes-Benz,EQS 450 4MATIC,2023,7.388,Electric,1-Speed A/T,0,105500,,355.0,36,
 Lamborghini,Huracan Tecnica Coupe,2023,278.0,Gasoline,Automatic,0,359991,5.2,,25,874
 Alfa,Romeo Giulia Quadrifoglio,2022,1.966,Gasoline,8-Speed Automatic,0,75900,2.9,,1,1367
 Chevrolet,Trailblazer LT,2021,50.648,Gasoline,Automatic CVT,0,23995,1.2,,9,1709
-Toyota,Land Cruiser Base,1993,231.5,–,A/T,0,29500,,,53,948
+Toyota,Land Cruiser Base,1993,231.5,Electric,A/T,0,29500,,,53,948
 Lamborghini,Urus Base,2021,13.692,Gasoline,8-Speed A/T,0,257000,4.0,641.0,25,1741
 INFINITI,G37 x,2013,60.058,Gasoline,A/T,1,15000,3.7,328.0,20,748
 Maserati,Levante S,2017,54.423,Gasoline,8-Speed A/T,0,33950,3.0,424.0,32,957
@@ -337,7 +337,7 @@ Kia,Telluride SX,2020,69.185,Gasoline,8-Speed Automatic,0,37405,3.8,,24,1685
 Maserati,GranTurismo Sport,2015,45.0,Gasoline,6-Speed A/T,0,41900,4.7,454.0,32,837
 BMW,540 i xDrive,2020,37.426,Gasoline,Automatic,0,39998,2.0,,4,105
 INFINITI,M56 Base,2011,137.0,Gasoline,Transmission w/Dual Shift Mode,1,8500,5.6,420.0,20,985
-Mazda,Mazda3 s Grand Touring,2016,85.0,–,A/T,1,18500,,,34,1065
+Mazda,Mazda3 s Grand Touring,2016,85.0,Electric,A/T,1,18500,,,34,1065
 Chevrolet,Corvette Stingray w/1LT,2023,4.0,Gasoline,8-Speed A/T,1,73900,6.2,490.0,9,509
 Audi,Q5 S line Premium Plus,2023,4.648,Hybrid,Automatic,0,47598,2.0,,3,1237
 Lexus,GX 460 Base,2018,52.1,Gasoline,6-Speed A/T,0,38000,4.6,301.0,27,792
@@ -490,7 +490,7 @@ Rolls-Royce,Cullinan,2022,115.0,Gasoline,8-Speed Automatic,0,449995,6.7,,46,529
 Cadillac,Escalade Premium,2015,71.0,Gasoline,6-Speed A/T,1,35999,6.2,420.0,8,613
 Acura,RDX Technology Package,2020,31.015,Gasoline,10-Speed Automatic,0,36570,2.0,,0,1299
 BMW,X2 xDrive28i,2022,33.0,Gasoline,Transmission w/Dual Shift Mode,0,29999,2.0,228.0,4,1785
-Chrysler,Pacifica Touring,2017,63.0,–,9-Speed A/T,0,20000,,,10,1179
+Chrysler,Pacifica Touring,2017,63.0,Electric,9-Speed A/T,0,20000,,,10,1179
 Buick,Verano Convenience,2013,68.325,E85 Flex Fuel,Transmission w/Dual Shift Mode,0,11995,2.4,180.0,7,1750
 Mercedes-Benz,AMG S 63 Base 4MATIC,2020,20.937,Gasoline,9-Speed Automatic,0,104900,4.0,,36,237
 RAM,2500 Tradesman,2021,34.365,Gasoline,8-Speed A/T,1,48000,6.4,410.0,44,30
@@ -691,7 +691,7 @@ BMW,M240 i,2019,19.3,Gasoline,8-Speed A/T,0,36000,3.0,335.0,4,968
 Cadillac,Escalade EXT Base,2009,155.0,E85 Flex Fuel,6-Speed A/T,1,16900,6.2,403.0,8,609
 Scion,tC Release Series 6.0,2010,120.01,Gasoline,4-Speed A/T,1,6500,2.4,161.0,49,1896
 Kia,Optima EX,2012,152.52,Gasoline,6-Speed A/T,0,10900,2.4,200.0,24,1159
-Honda,Civic EX,1993,58.981,–,A/T,0,9599,,,17,462
+Honda,Civic EX,1993,58.981,Electric,A/T,0,9599,,,17,462
 Maserati,Quattroporte Base,2005,32.0,Gasoline,Transmission w/Dual Shift Mode,1,2954083,4.2,394.0,32,1269
 Porsche,Panamera Turbo,2015,47.0,Gasoline,Transmission w/Dual Shift Mode,0,50000,4.8,520.0,43,1193
 Genesis,G70 2.0T,2023,2.046,Gasoline,8-Speed A/T,0,43499,2.0,252.0,16,750
@@ -854,7 +854,7 @@ Chrysler,Pacifica Hybrid Touring L,2022,61.494,Hybrid,Automatic CVT,0,35850,3.6,
 Jeep,Wrangler Unlimited Sport,2020,24.04,Gasoline,8-Speed Automatic,0,35273,2.0,,22,1778
 Toyota,Highlander Base,2001,231.581,Gasoline,A/T,0,4300,3.0,220.0,53,859
 Ford,F-150 Lariat,2019,81.0,Gasoline,10-Speed A/T,0,38500,3.5,375.0,14,660
-Ford,Bronco,1974,6.217,–,–,0,115000,,,14,316
+Ford,Bronco,1974,6.217,Electric,–,0,115000,,,14,316
 Land,Rover Discovery Sport S R-Dynamic,2022,23.568,Gasoline,Automatic,0,44998,2.0,,26,1387
 Mazda,Mazda6 Touring,2020,78.7,Gasoline,A/T,0,18000,2.5,187.0,34,1071
 Kia,Optima EX,2015,109.58,Gasoline,6-Speed A/T,1,11900,2.4,192.0,24,1159
@@ -922,7 +922,7 @@ Ford,F-150 XLT,2018,98.0,Gasoline,10-Speed A/T,1,25500,3.5,375.0,14,670
 Hyundai,Tucson Limited,2020,39.913,Gasoline,6-Speed Automatic,0,22749,2.4,,19,1725
 Ford,Mustang V6,2013,147.191,Gasoline,6-Speed A/T,1,12990,3.7,305.0,14,1130
 BMW,435 i,2014,53.6,Gasoline,8-Speed A/T,0,25980,3.0,300.0,4,73
-Dodge,Challenger R/T,2010,100.1,–,Transmission w/Dual Shift Mode,0,17000,,,11,441
+Dodge,Challenger R/T,2010,100.1,Electric,Transmission w/Dual Shift Mode,0,17000,,,11,441
 Mercedes-Benz,AMG G 63 Base,2020,1.75,Gasoline,9-Speed A/T,0,199995,4.0,577.0,36,218
 Dodge,Challenger SRT Hellcat,2020,2.75,Gasoline,8-Speed A/T,0,104500,6.2,797.0,11,446
 Porsche,Boxster Base,2013,40.8,Gasoline,7-Speed A/T,0,35500,2.7,265.0,43,311
@@ -994,7 +994,7 @@ BMW,540 i xDrive,2019,36.0,Gasoline,8-Speed A/T,1,41995,3.0,335.0,4,105
 BMW,X6 xDrive35i,2009,92.008,Gasoline,6-Speed A/T,0,12500,3.0,300.0,4,1810
 Ford,Mustang Base,1998,63.9,Gasoline,A/T,0,10300,3.8,150.0,14,1116
 Toyota,Sequoia Limited,2012,150.9,Gasoline,A/T,0,17500,5.7,381.0,53,1527
-Dodge,Challenger R/T Scat Pack,2019,43.0,–,6-Speed M/T,0,50000,,,11,442
+Dodge,Challenger R/T Scat Pack,2019,43.0,Electric,6-Speed M/T,0,50000,,,11,442
 Land,Rover Range Rover 3.0L Supercharged,2018,38.02,Gasoline,Automatic,0,63998,5.0,,26,1396
 Audi,Q8 55 Premium Plus,2021,14.75,Hybrid,Transmission w/Dual Shift Mode,0,61059,3.0,335.0,3,1258
 Subaru,WRX Base,2015,52.5,Gasoline,6-Speed M/T,0,23000,2.0,268.0,50,1757
@@ -1062,7 +1062,7 @@ Chevrolet,Silverado 3500 High Country,2015,77.5,Diesel,6-Speed A/T,0,54000,6.6,3
 Maserati,Quattroporte Sport GT,2007,82.0,Gasoline,Transmission w/Dual Shift Mode,1,7999,4.2,394.0,32,1274
 Dodge,Viper GTC,2017,1.389,Gasoline,M/T,0,489995,8.4,645.0,11,1754
 Ford,Expedition Limited,2021,29.83,Gasoline,10-Speed Automatic,0,55329,3.5,,14,636
-Mazda,Mazda6 i Grand Touring,2016,83.1,–,A/T,0,17800,,,34,1072
+Mazda,Mazda6 i Grand Touring,2016,83.1,Electric,A/T,0,17800,,,34,1072
 Kia,Optima LX,2019,62.66,Gasoline,A/T,0,16500,2.4,185.0,24,1162
 Land,Rover Range Rover Sport SVR,2018,56.006,Gasoline,Transmission w/Dual Shift Mode,0,59000,5.0,575.0,26,1431
 Lexus,RX 450h F SPORT Handling,2021,31.365,Hybrid,Variable,0,52998,3.5,,27,1328
@@ -1082,12 +1082,12 @@ Land,Rover Range Rover Sport Supercharged,2013,57.0,Gasoline,Transmission w/Dual
 Mercedes-Benz,S-Class S 560 4MATIC,2020,22.0,Gasoline,A/T,0,69500,4.0,463.0,36,1453
 Ford,Bronco Wildtrak Advanced,2023,2.0,Gasoline,A/T,0,66500,2.7,315.0,14,329
 RAM,1500 SLT,2018,61.802,E85 Flex Fuel,8-Speed A/T,0,32000,3.6,305.0,44,14
-Dodge,Challenger R/T,2010,73.0,–,A/T,0,17500,,,11,441
-Chevrolet,Sonic LT,2013,110.0,–,A/T,0,7500,,,9,1592
+Dodge,Challenger R/T,2010,73.0,Electric,A/T,0,17500,,,11,441
+Chevrolet,Sonic LT,2013,110.0,Electric,A/T,0,7500,,,9,1592
 Jeep,Grand Cherokee Laredo,2013,106.7,E85 Flex Fuel,6-Speed A/T,0,13500,3.6,290.0,22,845
 Audi,RS 5 4.2,2013,75.965,Gasoline,7-Speed A/T,1,35999,4.2,450.0,3,1308
 Jeep,Grand Cherokee L Overland,2022,31.804,Gasoline,Automatic,1,48995,3.6,,22,843
-Mazda,MX-5 Miata Base,1992,125.8,–,5-Speed M/T,0,11500,,,34,1020
+Mazda,MX-5 Miata Base,1992,125.8,Electric,5-Speed M/T,0,11500,,,34,1020
 Chrysler,Crossfire Limited,2005,116.32,Gasoline,5-Speed A/T,1,6000,3.2,215.0,10,519
 Audi,S5 4.2 Premium Plus,2011,156.875,Gasoline,6-Speed M/T,1,9900,4.2,354.0,3,1472
 Tesla,Model X Base,2023,197.0,Electric,A/T,0,85000,,670.0,52,1101
@@ -1133,7 +1133,7 @@ Buick,Lucerne CXL,2006,110.0,Gasoline,A/T,0,5000,4.6,275.0,7,961
 Lincoln,MKX Reserve,2016,88.0,Gasoline,Transmission w/Dual Shift Mode,0,18500,2.7,335.0,28,1014
 Nissan,Armada Platinum,2018,42.833,Gasoline,Transmission w/Dual Shift Mode,0,37000,5.6,390.0,39,264
 Porsche,911 Carrera,2020,23.278,Gasoline,Automatic,0,114998,3.0,,43,143
-Mercedes-Benz,E-Class 400E,1993,106.983,–,4-Speed A/T,0,15300,,,36,544
+Mercedes-Benz,E-Class 400E,1993,106.983,Electric,4-Speed A/T,0,15300,,,36,544
 BMW,435 Gran Coupe i,2015,60.1,Gasoline,8-Speed A/T,0,24995,3.0,300.0,4,72
 Jeep,Wagoneer Series III,2022,17.381,Gasoline,8-Speed Automatic,0,69685,5.7,,22,1762
 Cadillac,ATS 2.5L,2013,63.172,Gasoline,A/T,1,12995,2.5,202.0,8,240
@@ -1268,7 +1268,7 @@ Subaru,WRX Base,2015,102.0,Gasoline,M/T,1,18000,2.0,268.0,50,1757
 INFINITI,Q50 Premium,2014,79.785,Gasoline,7-Speed A/T,1,16488,3.7,328.0,20,1243
 Chevrolet,Suburban Premier,2017,166.549,Gasoline,6-Speed A/T,1,24950,5.3,355.0,9,1629
 Toyota,Sequoia Limited,2006,190.656,Gasoline,A/T,1,8900,4.7,273.0,53,1527
-Dodge,Challenger R/T Scat Pack,2016,7.928,–,6-Speed M/T,0,37500,,,11,442
+Dodge,Challenger R/T Scat Pack,2016,7.928,Electric,6-Speed M/T,0,37500,,,11,442
 Porsche,Cayenne GTS,2009,135.606,Gasoline,Transmission w/Dual Shift Mode,0,15000,4.8,405.0,43,427
 Kia,Telluride S,2023,14.7,Gasoline,8-Speed A/T,0,39900,3.8,291.0,24,1684
 Mercedes-Benz,AMG E 63 S 4MATIC,2019,12.985,Gasoline,9-Speed A/T,1,96000,4.0,603.0,36,216
@@ -1293,7 +1293,7 @@ Hyundai,Sonata Hybrid Base,2012,154.0,Hybrid,A/T,1,8500,2.4,206.0,19,1587
 Cadillac,CTS Luxury,2012,62.5,Gasoline,6-Speed A/T,1,18955,3.0,270.0,8,376
 BMW,323 Ci,2000,177.7,Gasoline,5-Speed A/T,0,2500,2.5,170.0,4,39
 Tesla,Model 3 Standard Range Plus,2019,83.7,Electric,A/T,1,26000,,,52,1087
-Chevrolet,1500 Cheyenne Extended Cab,1995,120.0,–,4-Speed A/T,1,6500,,,9,6
+Chevrolet,1500 Cheyenne Extended Cab,1995,120.0,Electric,4-Speed A/T,1,6500,,,9,6
 Nissan,370Z Touring,2012,65.0,Gasoline,6-Speed M/T,0,21500,3.7,332.0,39,63
 Mercedes-Benz,GLS 450 Base 4MATIC,2018,62.808,Gasoline,Automatic,1,38598,3.0,,36,776
 Ford,Mustang GT Premium,2021,3.0,Gasoline,6-Speed M/T,0,49500,5.0,460.0,14,1122
@@ -1354,7 +1354,7 @@ Land,Rover Range Rover Sport Supercharged,2011,40.0,Gasoline,Transmission w/Dual
 Mercedes-Benz,Sprinter 2500,2011,120.0,Diesel,5-Speed A/T,0,31999,3.0,188.0,36,1610
 Toyota,Sequoia Platinum,2023,325.0,Hybrid,10-Speed A/T,0,84997,3.4,437.0,53,1528
 Maserati,Quattroporte S GranLusso,2017,55.0,Gasoline,A/T,0,39100,3.0,405.0,32,1272
-Toyota,Land Cruiser Base,1996,233.0,–,A/T,0,7500,,,53,948
+Toyota,Land Cruiser Base,1996,233.0,Electric,A/T,0,7500,,,53,948
 Lamborghini,Aventador SVJ Base,2021,6.987,Gasoline,7-Speed,0,749950,6.5,,25,291
 Ford,Mustang Bullitt,2019,48.5,Gasoline,6-Speed M/T,1,44999,5.0,480.0,14,1118
 RAM,2500 Tradesman,2018,52.0,Diesel,6-Speed A/T,0,50000,6.7,350.0,44,30
@@ -1614,7 +1614,7 @@ Nissan,NV200 SV,2017,16.7,Gasoline,A/T,0,26500,2.0,131.0,39,1136
 Subaru,Impreza 2.0i Premium,2013,112.0,Gasoline,CVT Transmission,0,9999,2.0,148.0,50,893
 BMW,M3 Base,2016,55.25,Gasoline,6-Speed M/T,0,49999,3.0,425.0,4,970
 INFINITI,QX80 Luxe,2020,69.0,Gasoline,A/T,0,31450,5.6,400.0,20,1267
-Rolls-Royce,Phantom,2023,1.56,–,–,0,599995,,,46,1205
+Rolls-Royce,Phantom,2023,1.56,Electric,–,0,599995,,,46,1205
 Ford,Mustang GT Premium,2016,40.57,Gasoline,6-Speed M/T,1,30490,5.0,435.0,14,1122
 Toyota,RAV4 TRD Off Road,2020,46.5,Gasoline,8-Speed A/T,0,35200,2.5,203.0,53,1291
 Honda,S2000 Base,2000,26.9,Gasoline,M/T,0,35000,2.0,240.0,17,1458
@@ -1642,7 +1642,7 @@ Nissan,Titan S,2017,20.22,Gasoline,7-Speed A/T,0,32324,5.6,390.0,39,1694
 Honda,Accord EX-L 2.0T,2019,40.069,Gasoline,A/T,1,27500,2.0,252.0,17,254
 Subaru,WRX Base,2017,60.93,Gasoline,6-Speed M/T,0,23750,2.0,268.0,50,1757
 Audi,A4 2.0T Titanium Premium,2019,7.3,Gasoline,7-Speed A/T,0,27900,2.0,188.0,3,174
-Ford,Mustang EcoBoost Premium,2018,34.0,–,A/T,1,25000,,,14,1120
+Ford,Mustang EcoBoost Premium,2018,34.0,Electric,A/T,1,25000,,,14,1120
 Chevrolet,Avalanche 1500 LS,2012,56.0,E85 Flex Fuel,A/T,1,18000,5.3,320.0,9,278
 Mercedes-Benz,CLA-Class CLA 250,2014,136.0,Gasoline,Transmission w/Dual Shift Mode,1,12000,2.0,208.0,36,350
 BMW,228 Gran Coupe i xDrive,2020,31.1,Gasoline,8-Speed A/T,0,26999,2.0,228.0,4,21
@@ -1680,7 +1680,7 @@ Lamborghini,Urus Base,2021,9.5,Gasoline,A/T,0,279900,4.0,641.0,25,1741
 INFINITI,QX60 Base,2014,154.247,Gasoline,A/T,1,12500,3.5,265.0,20,1262
 Chevrolet,Silverado 2500 LTZ H/D Extended Cab,2008,128.0,Gasoline,6-Speed A/T,0,23500,6.0,353.0,9,1578
 Maserati,GranTurismo Base,2008,70.0,Gasoline,A/T,1,13000,4.2,405.0,32,835
-Acura,Integra GS-R,1995,123.0,–,5-Speed M/T,0,10999,,,0,904
+Acura,Integra GS-R,1995,123.0,Electric,5-Speed M/T,0,10999,,,0,904
 BMW,X6 M Base,2016,52.375,Gasoline,8-Speed A/T,1,48600,4.4,567.0,4,1807
 Chrysler,300 S,2016,100.574,Gasoline,8-Speed A/T,1,17500,3.6,300.0,10,32
 Chrysler,300 Base,2014,85.0,Gasoline,8-Speed A/T,1,11250,3.6,292.0,10,31
@@ -1745,7 +1745,7 @@ Cadillac,XT5 Luxury,2019,44.692,Gasoline,8-Speed Automatic,0,32368,3.6,,8,1856
 Jaguar,F-TYPE R,2018,16.002,Gasoline,8-Speed A/T,0,74900,5.0,550.0,21,698
 Toyota,FJ Cruiser Base,2014,86.0,Gasoline,5-Speed A/T,0,41500,4.0,260.0,53,705
 Toyota,Tundra SR5,2019,56.0,Gasoline,6-Speed A/T,0,42000,5.7,381.0,53,1736
-Nissan,300ZX Base,1993,168.0,–,5-Speed M/T,0,7000,,,39,37
+Nissan,300ZX Base,1993,168.0,Electric,5-Speed M/T,0,7000,,,39,37
 RAM,1500 Sport,2017,41.789,Gasoline,A/T,1,42500,5.7,395.0,44,15
 Ford,Focus SE,2014,60.109,E85 Flex Fuel,6-Speed A/T,0,9499,2.0,160.0,14,717
 Mercedes-Benz,GLE 350 Base 4MATIC,2020,48.0,Gasoline,A/T,0,49995,2.0,255.0,36,771
@@ -1804,7 +1804,7 @@ Buick,Enclave 1XL,2011,170.0,Gasoline,6-Speed A/T,1,4000,3.6,288.0,7,587
 Ford,F-150 XLT,2018,67.65,Gasoline,A/T,0,30000,3.5,375.0,14,670
 Lexus,ES 350 Base,2016,119.85,Gasoline,A/T,0,19000,3.5,268.0,27,569
 Acura,TL Type S,2008,116.5,Gasoline,6-Speed M/T,0,15999,3.5,286.0,0,1638
-Mercury,Capri XR2,1993,120.644,–,5-Speed M/T,0,4200,,,37,418
+Mercury,Capri XR2,1993,120.644,Electric,5-Speed M/T,0,4200,,,37,418
 Ford,Transit Connect XLT,2010,169.802,Gasoline,4-Speed Automatic,0,9985,2.0,,14,1714
 BMW,X3 M40i,2021,36.905,Gasoline,Transmission w/Dual Shift Mode,0,50000,3.0,382.0,4,1787
 Jeep,Gladiator Willys,2022,8.4,Gasoline,8-Speed A/T,1,47000,3.6,285.0,22,821
@@ -1955,7 +1955,7 @@ INFINITI,QX70 Base,2014,71.097,Gasoline,7-Speed A/T,0,18995,3.7,325.0,20,1265
 BMW,X5 xDrive35i,2013,76.309,Gasoline,A/T,0,12000,3.0,300.0,4,1803
 Tesla,Model 3,2018,26.609,Electric,Automatic,0,36998,,,52,1081
 Land,Rover Range Rover P400 SE LWB 7 Seat,2023,4.126,Hybrid,A/T,0,155000,3.0,395.0,26,1413
-Nissan,240SX Base,1996,160.49,–,5-Speed M/T,0,15500,,,39,24
+Nissan,240SX Base,1996,160.49,Electric,5-Speed M/T,0,15500,,,39,24
 Cadillac,ATS 2.5L,2014,80.4,Gasoline,A/T,1,15000,2.5,202.0,8,240
 Toyota,RAV4 Base,2010,123.62,Gasoline,4-Speed A/T,1,9900,2.5,179.0,53,1287
 Acura,TSX Technology,2011,187.883,Gasoline,A/T,0,5500,2.4,201.0,0,1651
@@ -2025,7 +2025,7 @@ BMW,M4 Base,2015,98.0,Gasoline,Transmission w/Dual Shift Mode,0,32999,3.0,425.0,
 BMW,750 i,2008,94.653,Gasoline,A/T,1,7300,4.8,360.0,4,132
 Ford,Expedition Limited,2023,9.281,Gasoline,A/T,0,85000,3.5,440.0,14,636
 Chevrolet,Traverse Premier,2023,11.806,Gasoline,9-Speed A/T,0,47000,3.6,310.0,9,1721
-Mercedes-Benz,E-Class D 2.5 Turbo,1993,70.015,–,4-Speed A/T,0,22500,,,36,546
+Mercedes-Benz,E-Class D 2.5 Turbo,1993,70.015,Electric,4-Speed A/T,0,22500,,,36,546
 Cadillac,Escalade Platinum,2020,48.613,Gasoline,A/T,1,61500,6.2,420.0,8,611
 RAM,3500 Tradesman,2023,2.99,Diesel,A/T,1,69900,6.7,400.0,44,56
 Audi,TT 1.8L,2005,124.747,Gasoline,Transmission w/Dual Shift Mode,0,6900,1.8,180.0,3,1652
@@ -2102,7 +2102,7 @@ Acura,TLX Type S w/Performance Tire,2023,4.7,Gasoline,10-Speed A/T,0,52000,3.0,3
 Toyota,Tacoma Base,2020,27.256,Gasoline,6 Speed At/Mt,0,42998,3.5,,53,1661
 Hummer,H3 Base,2010,107.481,Gasoline,A/T,0,13500,3.7,239.0,18,854
 Tesla,Model 3 Long Range,2018,61.7,Electric,A/T,0,25900,,271.0,52,1083
-Volvo,850 Turbo,1995,94.0,–,A/T,0,4500,,,55,138
+Volvo,850 Turbo,1995,94.0,Electric,A/T,0,4500,,,55,138
 Jeep,Wrangler Unlimited Sahara,2017,128.0,Gasoline,5-Speed A/T,0,26800,3.6,285.0,22,1777
 Chevrolet,Camaro 2SS,2018,26.0,Gasoline,8-Speed A/T,0,39000,6.2,455.0,9,401
 Audi,S6 4.0T,2015,74.0,Gasoline,7-Speed A/T,0,29950,4.0,420.0,3,1473
@@ -2114,7 +2114,7 @@ Lamborghini,Aventador LP750-4 Superveloce,2017,10.654,Gasoline,Automatic,0,44999
 Ford,F-250 XL,2014,35.9,E85 Flex Fuel,Transmission w/Dual Shift Mode,1,27900,6.2,385.0,14,678
 GMC,Yukon XL Denali,2022,48.306,Gasoline,10-Speed Automatic,1,71999,6.2,,15,1872
 Audi,A4 2.0T Premium,2012,125.0,Gasoline,8-Speed A/T,0,10500,2.0,211.0,3,169
-Dodge,Challenger SRT 392,2016,37.7,–,8-Speed A/T,1,38000,,,11,444
+Dodge,Challenger SRT 392,2016,37.7,Electric,8-Speed A/T,1,38000,,,11,444
 Tesla,Model S P100D,2017,103.0,Electric,1-Speed A/T,0,36000,,,52,1096
 Mazda,CX-30 Premium Package,2021,45.303,Gasoline,6-Speed Automatic,0,25382,2.5,,34,383
 Lexus,ES 350 Base,2016,53.9,Gasoline,A/T,0,27500,3.5,268.0,27,569
@@ -2302,7 +2302,7 @@ Ford,Focus SE,2014,79.615,Gasoline,6-Speed Automatic with Auto-Shift,0,10995,2.0
 BMW,M5 Base,2021,13.25,Gasoline,8-Speed Automatic,0,86900,4.4,,4,982
 Land,Rover Range Rover 3.0L V6 Supercharged HSE,2019,41.2,Gasoline,Transmission w/Dual Shift Mode,0,60500,3.0,380.0,26,1398
 Cadillac,Escalade ESV Luxury,2016,116.5,Gasoline,8-Speed A/T,1,30500,6.2,420.0,8,603
-Acura,NSX Base,1993,75.98,–,A/T,0,90200,,,0,1132
+Acura,NSX Base,1993,75.98,Electric,A/T,0,90200,,,0,1132
 Chevrolet,Corvette Z06,2018,24.059,Gasoline,8-Speed A/T,0,87150,6.2,650.0,9,512
 Audi,Q5 2.0T Premium Plus,2015,118.5,E85 Flex Fuel,A/T,1,15400,2.0,220.0,3,1231
 BMW,ALPINA B7 ALPINA B7 xDrive,2020,15.097,Gasoline,Automatic,0,99998,4.4,,4,203
@@ -2446,8 +2446,8 @@ Ford,F-150 XLT,2021,25.352,Gasoline,10-Speed Automatic,0,48459,3.5,,14,670
 Mercedes-Benz,R-Class R 350 4MATIC,2008,120.0,Gasoline,7-Speed A/T,0,8995,3.5,268.0,36,1276
 Chevrolet,Camaro 2SS,2018,75.151,Gasoline,6-Speed M/T,1,45000,6.2,455.0,9,401
 Jeep,Wrangler Sport,2016,74.139,Gasoline,6-Speed M/T,0,23000,3.6,285.0,22,1771
-Chevrolet,1500 Cheyenne,1994,170.443,–,A/T,1,6000,,,9,5
-Jaguar,XJ6 Vanden Plas,1995,70.0,–,A/T,0,19000,,,21,1845
+Chevrolet,1500 Cheyenne,1994,170.443,Electric,A/T,1,6000,,,9,5
+Jaguar,XJ6 Vanden Plas,1995,70.0,Electric,A/T,0,19000,,,21,1845
 BMW,550 i xDrive,2012,68.5,Gasoline,Transmission w/Dual Shift Mode,0,17800,4.4,400.0,4,107
 Lexus,GX 460 Luxury,2020,37.366,Gasoline,6-Speed Automatic,0,51890,4.6,,27,793
 Tesla,Model S Long Range,2021,35.315,Electric,1-Speed A/T,0,66900,,670.0,52,1094
@@ -2504,7 +2504,7 @@ Jeep,Wrangler Unlimited Sport,2019,52.775,Gasoline,8-Speed A/T,0,39799,3.6,285.0
 Mitsubishi,Lancer Sportback ES,2011,113.0,Gasoline,5-Speed M/T,0,5800,2.0,148.0,38,946
 Porsche,Macan Base,2022,13.0,Gasoline,A/T,0,60000,2.0,261.0,43,1028
 Mercedes-Benz,CLK-Class CLK 350,2009,77.925,Gasoline,Transmission w/Dual Shift Mode,0,16500,3.5,268.0,36,353
-Dodge,Challenger SRT8,2011,106.5,–,5-Speed A/T,1,22500,,,11,447
+Dodge,Challenger SRT8,2011,106.5,Electric,5-Speed A/T,1,22500,,,11,447
 Mazda,Mazda3 Grand Touring,2018,15.175,Gasoline,6-Speed Automatic,1,19212,2.5,,34,1060
 Audi,A3 2.0T Premium,2017,137.0,Gasoline,7-Speed A/T,0,10995,2.0,186.0,3,167
 BMW,528 i,2015,111.0,Gasoline,8-Speed A/T,1,15000,2.0,240.0,4,97
@@ -2573,7 +2573,7 @@ Porsche,718 Boxster S,2018,50.0,Gasoline,A/T,1,55000,2.5,350.0,43,119
 Chevrolet,Corvette Base,2004,37.622,Gasoline,A/T,0,25500,5.7,350.0,9,505
 Toyota,Avalon Limited,2006,89.987,Gasoline,5-Speed A/T,0,9499,3.5,268.0,53,283
 INFINITI,QX80 Base,2015,136.39,Gasoline,7-Speed Automatic,0,20470,5.6,,20,1266
-Cadillac,DeVille Base,1994,90.0,–,A/T,1,2990,,,8,538
+Cadillac,DeVille Base,1994,90.0,Electric,A/T,1,2990,,,8,538
 Chevrolet,Camaro 2SS,2015,27.0,Gasoline,Transmission w/Dual Shift Mode,0,33000,6.2,426.0,9,401
 Jeep,Liberty Renegade,2004,144.77,Gasoline,4-Speed A/T,1,6500,3.7,210.0,22,959
 Toyota,4Runner Trail,2011,157.0,Gasoline,Transmission w/Dual Shift Mode,0,23500,4.0,270.0,53,89
@@ -2607,7 +2607,7 @@ Audi,allroad 2.0T Prestige,2013,104.457,Gasoline,8-Speed A/T,0,17900,2.0,211.0,3
 McLaren,570S Spider,2018,8.984,Gasoline,7-Speed Automatic with Auto-Shift,0,171900,3.8,,35,109
 Chevrolet,Express 2500 Work Van,2017,76.0,Gasoline,A/T,0,41400,4.8,285.0,9,655
 Chevrolet,Traverse High Country,2020,56.247,Gasoline,9-Speed Automatic,0,39244,3.6,,9,1719
-Jeep,Wrangler S,1994,50.75,–,5-Speed M/T,0,15000,,,22,1767
+Jeep,Wrangler S,1994,50.75,Electric,5-Speed M/T,0,15000,,,22,1767
 Acura,ILX Technology Plus Package,2016,61.0,Gasoline,A/T,1,21000,2.4,201.0,0,880
 Chevrolet,Camaro 1LT,2019,9.111,Gasoline,8-Speed Automatic,0,27599,3.6,,9,398
 Lexus,ES 350 Base,2015,100.9,Gasoline,Automatic,0,21998,3.5,,27,569
@@ -2836,7 +2836,7 @@ BMW,435 i xDrive,2014,90.347,Gasoline,8-Speed A/T,0,21800,3.0,300.0,4,74
 GMC,Yukon SLE,2017,96.0,Gasoline,A/T,0,34000,5.3,355.0,15,1868
 Honda,Pilot EX-L,2016,80.5,Gasoline,6-Speed A/T,0,23000,3.5,280.0,17,1210
 Audi,A5 Sportback S line Premium Plus,2021,35.0,Hybrid,7-Speed A/T,0,37499,2.0,261.0,3,180
-Porsche,911 Carrera,1995,49.9,–,6-Speed M/T,1,97993,,,43,143
+Porsche,911 Carrera,1995,49.9,Electric,6-Speed M/T,1,97993,,,43,143
 Honda,Civic Sport,2020,121.212,Gasoline,Automatic CVT,1,18387,1.5,,17,466
 Mercedes-Benz,G 550 4x4 Squared Base,2018,14.381,Gasoline,7-Speed Automatic,0,204900,4.0,,36,739
 Porsche,Panamera Platinum Edition,2022,13.5,Gasoline,8-Speed A/T,0,86999,2.9,325.0,43,1191
@@ -2853,7 +2853,7 @@ Ford,Explorer Limited,2022,17.5,Hybrid,10-Speed A/T,0,46000,3.3,318.0,14,644
 Acura,RDX,2016,132.252,Gasoline,Automatic,0,18998,3.5,,0,1295
 Toyota,Highlander XLE,2022,4.437,Gasoline,Transmission w/Dual Shift Mode,0,42000,3.5,295.0,53,868
 Volkswagen,Golf GTI 2.0T SE 4-Door,2018,70.5,Gasoline,Transmission w/Dual Shift Mode,0,23000,2.0,220.0,54,827
-Nissan,Pickup Truck XE,1994,89.144,–,A/T,0,5899,,,39,1207
+Nissan,Pickup Truck XE,1994,89.144,Electric,A/T,0,5899,,,39,1207
 Toyota,Corolla CE,2008,170.0,Gasoline,A/T,0,5199,1.8,126.0,53,497
 Honda,Element EX,2008,122.0,Gasoline,A/T,0,10500,2.4,166.0,17,585
 Toyota,Camry Solara SE,2008,57.852,Gasoline,A/T,0,13900,3.3,210.0,53,411
@@ -2893,7 +2893,7 @@ McLaren,720S Performance,2020,9.989,Gasoline,7-Speed A/T,0,324995,4.0,710.0,35,1
 Kia,Telluride SX,2022,46.347,Gasoline,8-Speed Automatic,0,46120,3.8,,24,1685
 Chevrolet,Corvette Base,2007,4.048,Gasoline,6-Speed M/T,0,38000,6.0,400.0,9,505
 Mercedes-Benz,S-Class S 63 AMG,2015,79.876,Gasoline,7-Speed A/T,0,45750,5.5,577.0,36,1455
-Toyota,Mirai Limited,2021,44.0,not supported,A/T,0,18500,,182.0,53,1080
+Toyota,Mirai Limited,2021,44.0,Electric,A/T,0,18500,,182.0,53,1080
 Alfa,Romeo Giulia Ti,2017,56.91,Gasoline,Transmission w/Dual Shift Mode,0,23000,2.0,280.0,1,1368
 Land,Rover Range Rover Sport HSE,2019,65.019,Gasoline,A/T,0,40500,3.0,340.0,26,1426
 Nissan,370Z Touring,2009,133.409,Gasoline,6-Speed M/T,1,14999,3.7,332.0,39,63
@@ -3038,7 +3038,7 @@ Ford,F-150 Heritage XL SuperCab Flareside,2004,60.26,Gasoline,4-Speed A/T,1,3050
 Mazda,MazdaSpeed Miata MX-5 Base,2004,33.362,Gasoline,6-Speed M/T,1,17599,1.8,178.0,34,1075
 GMC,Acadia Denali,2021,47.907,Gasoline,9-Speed Automatic,0,38436,3.6,,15,243
 Mercedes-Benz,Metris Base,2016,17.34,Gasoline,A/T,0,29000,2.0,208.0,36,1077
-Cadillac,DeVille Base,1994,85.0,–,A/T,0,7900,,,8,538
+Cadillac,DeVille Base,1994,85.0,Electric,A/T,0,7900,,,8,538
 Ford,Expedition EL XLT,2011,195.5,E85 Flex Fuel,6-Speed A/T,0,8999,5.4,310.0,14,634
 Chevrolet,Monte Carlo SS,2000,74.0,Gasoline,4-Speed A/T,0,4700,3.8,200.0,9,1110
 RAM,1500 Big Horn,2015,140.5,Gasoline,8-Speed A/T,1,14000,5.7,395.0,44,4
@@ -3067,7 +3067,7 @@ Cadillac,Escalade ESV Platinum,2020,92.0,Gasoline,A/T,0,50000,6.2,420.0,8,604
 Ford,Fusion SE,2012,160.0,E85 Flex Fuel,A/T,0,4500,3.0,240.0,14,738
 Mercedes-Benz,E-Class E 350,2012,95.816,Gasoline,7-Speed A/T,0,12000,3.5,302.0,36,549
 Jeep,Wrangler Unlimited Sport,2014,132.6,Gasoline,5-Speed A/T,1,17000,3.6,285.0,22,1778
-Cadillac,DeVille Base,1994,47.0,–,A/T,0,5990,,,8,538
+Cadillac,DeVille Base,1994,47.0,Electric,A/T,0,5990,,,8,538
 Jeep,Wrangler Sport,2010,149.46,Gasoline,4-Speed A/T,0,10700,3.8,202.0,22,1771
 Jeep,Wrangler Sport,2011,109.646,Gasoline,4-Speed Automatic,0,16998,3.8,,22,1771
 Acura,MDX 3.5L w/Technology Package,2019,90.605,Gasoline,Automatic,0,27698,3.5,,0,998
@@ -3149,7 +3149,7 @@ Hummer,H3 Base,2007,201.0,Gasoline,A/T,1,7200,3.7,242.0,18,854
 Kia,Sportage LX,2014,87.0,Gasoline,A/T,1,8900,2.4,182.0,24,1604
 GMC,Yukon XL 1500 SLT,2015,145.0,Gasoline,6-Speed A/T,0,24950,5.3,355.0,15,1870
 Jeep,Wrangler Unlimited Sport,2020,33.06,Gasoline,8-Speed A/T,0,36500,3.6,285.0,22,1778
-Ford,Bronco XLT,1995,195.0,–,A/T,0,15000,,,14,330
+Ford,Bronco XLT,1995,195.0,Electric,A/T,0,15000,,,14,330
 Tesla,Model S Long Range Plus,2021,10.55,Electric,A/T,0,67800,,557.0,52,1095
 Audi,A6 3.0T Prestige,2014,89.5,Gasoline,Transmission w/Dual Shift Mode,0,18000,3.0,310.0,3,185
 Jeep,Wrangler 80th Anniversary,2021,27.0,Hybrid,8-Speed A/T,0,37500,3.6,285.0,22,1764
@@ -3212,7 +3212,7 @@ Ford,Explorer ST,2022,10.5,Gasoline,Transmission w/Dual Shift Mode,0,50000,3.0,4
 MINI,Countryman Cooper,2020,74.725,Gasoline,7-Speed Automatic with Auto-Shift,0,21612,1.5,,31,515
 Mazda,CX-5 Grand Touring,2021,61.117,Gasoline,6-Speed Automatic,0,26485,2.5,,34,385
 BMW,325 i,2003,142.0,Gasoline,5-Speed M/T,1,4800,2.5,184.0,4,41
-Ford,Mustang EcoBoost Premium,2019,31.0,–,6-Speed M/T,0,34700,,,14,1120
+Ford,Mustang EcoBoost Premium,2019,31.0,Electric,6-Speed M/T,0,34700,,,14,1120
 Toyota,Yaris L,2012,129.355,Gasoline,4-Speed A/T,1,7950,1.5,106.0,53,1865
 Chevrolet,Express 1500 Base,2010,204.0,E85 Flex Fuel,4-Speed A/T,1,4900,5.3,310.0,9,652
 Lincoln,Navigator L Select,2016,115.6,Gasoline,6-Speed A/T,0,22500,3.5,380.0,28,1146
@@ -3412,7 +3412,7 @@ Jeep,Grand Wagoneer Base,2023,3.752,Gasoline,8-Speed Automatic,0,84620,6.4,,22,8
 Lexus,RX 350 Base,2021,30.761,Gasoline,8-Speed Automatic,0,44950,3.5,,27,1320
 RAM,1500 Laramie,2022,13.438,Gasoline,8-Speed Automatic,0,46599,5.7,,44,10
 Jeep,Gladiator Overland,2020,9.1,Gasoline,8-Speed A/T,0,49895,3.6,285.0,22,817
-Chrysler,200 Limited,2017,100.6,–,A/T,0,10000,,,10,20
+Chrysler,200 Limited,2017,100.6,Electric,A/T,0,10000,,,10,20
 Ford,Fusion Hybrid Base,2011,223.824,Hybrid,A/T,1,4500,2.5,156.0,14,734
 Audi,A6 2.0T Premium Plus,2016,96.0,Gasoline,8-Speed A/T,0,21990,2.0,252.0,3,181
 Chevrolet,Silverado 1500 Z71 Extended Cab,2004,185.0,Gasoline,4-Speed A/T,1,10500,5.3,295.0,9,1571
@@ -3468,7 +3468,7 @@ Porsche,911 Carrera C4S,2006,65.0,Gasoline,6-Speed M/T,0,43000,3.8,355.0,43,150
 Tesla,Model 3 Long Range,2022,22.457,Electric,Automatic,0,40036,,,52,1083
 Toyota,Camry XSE,2022,19.361,Gasoline,Automatic,0,38298,3.5,,53,415
 BMW,i3 94 Ah,2017,43.0,Electric,1-Speed A/T,0,16500,0.65,170.0,4,1890
-Ford,F-250 XL SuperCab H/D,1993,115.0,–,A/T,0,21900,,,14,680
+Ford,F-250 XL SuperCab H/D,1993,115.0,Electric,A/T,0,21900,,,14,680
 Porsche,Taycan Turbo,2020,2.076,Electric,Automatic,0,115998,,,43,1680
 Porsche,911 GT3,2018,9.712,Gasoline,7-Speed Automatic with Auto-Shift,0,188900,4.0,,43,157
 Mercedes-Benz,E-Class E55 AMG,2005,131.0,Gasoline,5-Speed A/T,0,16500,5.4,469.0,36,557
@@ -3571,7 +3571,7 @@ Ford,Explorer Platinum,2020,64.552,Gasoline,10-Speed Automatic,1,36750,3.0,,14,6
 Lexus,RX 350 Base,2017,103.866,Gasoline,8-Speed A/T,1,24700,3.5,295.0,27,1320
 Land,Rover Range Rover 3.0L V6 Supercharged HSE,2019,35.65,Gasoline,8-Speed A/T,1,57999,3.0,380.0,26,1398
 Ford,Explorer Platinum,2021,64.957,Gasoline,10-Speed Automatic,0,39979,3.0,,14,645
-Dodge,Challenger SRT8 392,2012,33.7,–,6-Speed M/T,0,33500,,,11,448
+Dodge,Challenger SRT8 392,2012,33.7,Electric,6-Speed M/T,0,33500,,,11,448
 Chevrolet,Equinox 2LT,2012,96.653,Gasoline,6-Speed A/T,1,7500,3.0,264.0,9,597
 Dodge,Challenger SXT,2022,29.5,Gasoline,8-Speed A/T,0,31000,3.6,303.0,11,449
 Porsche,911 Carrera,2021,7.4,Gasoline,8-Speed A/T,0,116999,3.0,379.0,43,143
@@ -3699,9 +3699,9 @@ Lexus,RX 450h F Sport Handling,2022,1.6,Hybrid,A/T,0,59000,3.5,308.0,27,1330
 Porsche,911 GT3 RS,2019,15.509,Gasoline,7-Speed Automatic with Auto-Shift,0,229900,4.0,,43,158
 Ford,Expedition Platinum,2020,69.849,Gasoline,10-Speed Automatic,0,48149,3.5,,14,640
 Toyota,Tacoma PreRunner,2008,160.0,Gasoline,A/T,1,17000,4.0,236.0,53,1663
-Toyota,Mirai Base,2016,40.0,not supported,A/T,0,9500,,151.0,53,1079
+Toyota,Mirai Base,2016,40.0,Electric,A/T,0,9500,,151.0,53,1079
 Ford,Explorer Sport Trac XLT,2007,228.0,Gasoline,A/T,1,3850,4.6,292.0,14,648
-GMC,Sierra 1500 SLE1 Extended Cab,2008,187.0,–,4-Speed A/T,1,6100,,,15,1544
+GMC,Sierra 1500 SLE1 Extended Cab,2008,187.0,Electric,4-Speed A/T,1,6100,,,15,1544
 Mercedes-Benz,C-Class C 300 Luxury,2015,102.0,Gasoline,7-Speed A/T,0,17000,2.0,241.0,36,338
 Cadillac,SRX Standard,2016,48.0,Gasoline,6-Speed A/T,1,24995,3.6,308.0,8,1512
 Chrysler,Town & Country Touring-L,2012,163.5,E85 Flex Fuel,6-Speed A/T,0,5949,3.6,283.0,10,1705
@@ -3917,11 +3917,11 @@ Lexus,GX 460 Base,2012,167.0,Gasoline,A/T,1,19470,4.6,301.0,27,792
 Chevrolet,Trailblazer SS,2008,161.0,Gasoline,4-Speed A/T,1,17000,6.0,390.0,9,1711
 Subaru,Impreza WRX,2005,90.2,Gasoline,5-Speed M/T,0,12499,2.0,227.0,50,897
 Volkswagen,Passat 2.5 SE,2012,159.87,Gasoline,A/T,1,9750,2.5,170.0,54,1196
-Porsche,911 Carrera Cabriolet,1996,38.0,–,Transmission w/Dual Shift Mode,0,75000,,,43,151
+Porsche,911 Carrera Cabriolet,1996,38.0,Electric,Transmission w/Dual Shift Mode,0,75000,,,43,151
 Audi,Q5 40 Premium,2022,14.55,Hybrid,7-Speed A/T,0,41500,2.0,201.0,3,1234
 INFINITI,Q60 3.0t Red Sport 400,2018,38.0,Gasoline,A/T,0,32000,3.0,400.0,20,1245
 Chevrolet,Camaro Z28,2002,35.515,Gasoline,M/T,1,21000,5.7,310.0,9,404
-Mazda,Protege DX,1993,94.2,–,A/T,1,2500,,,34,1221
+Mazda,Protege DX,1993,94.2,Electric,A/T,1,2500,,,34,1221
 Mercedes-Benz,SL-Class SL550 Roadster,2008,33.3,Gasoline,7-Speed A/T,0,34500,5.5,382.0,36,1495
 Mercedes-Benz,C-Class C 300 4MATIC,2016,90.189,Gasoline,A/T,1,17995,2.0,241.0,36,335
 Land,Rover Range Rover Autobiography,2023,1.148,Gasoline,Automatic,0,193063,4.4,,26,1403
@@ -3951,7 +3951,7 @@ INFINITI,G37 x,2013,90.0,Gasoline,Transmission w/Dual Shift Mode,0,14500,3.7,328
 Audi,A6 2.0T Sport,2018,49.65,Gasoline,A/T,1,23750,2.0,252.0,3,182
 Nissan,Altima 2.5 S,2015,149.8,Gasoline,A/T,1,11600,2.5,182.0,39,260
 Chevrolet,Blazer 1LT,2019,37.161,Gasoline,9-Speed Automatic,0,26990,2.5,,9,307
-Dodge,Ram 3500 Quad Cab DRW,2000,188.0,–,A/T,1,10000,,,11,1347
+Dodge,Ram 3500 Quad Cab DRW,2000,188.0,Electric,A/T,1,10000,,,11,1347
 Ford,Transit Connect XLT,2016,111.7,E85 Flex Fuel,A/T,0,15500,2.5,169.0,14,1714
 Mercedes-Benz,S-Class S 550 4MATIC,2016,72.784,Gasoline,7-Speed A/T,0,34900,4.7,449.0,36,1451
 Cadillac,Escalade Base,2007,150.0,Gasoline,A/T,0,9999,6.2,403.0,8,601
@@ -3983,7 +3983,7 @@ Porsche,911 Carrera S,2015,36.0,Gasoline,7-Speed A/T,0,84999,3.8,400.0,43,153
 Ford,Bronco Badlands Advanced,2022,17.0,Gasoline,10-Speed A/T,0,69999,2.7,315.0,14,318
 Suzuki,SX4 Base,2013,99.982,Gasoline,M/T,1,6900,2.0,150.0,51,1515
 Ford,EcoSport SES,2019,106.0,Gasoline,A/T,1,12000,2.0,166.0,14,576
-Toyota,Land Cruiser Base,1994,178.416,–,A/T,0,9000,,,53,948
+Toyota,Land Cruiser Base,1994,178.416,Electric,A/T,0,9000,,,53,948
 Honda,Civic EX,2014,82.5,Gasoline,CVT Transmission,0,15000,1.8,143.0,17,462
 Mercedes-Benz,Sprinter 2500 Standard Roof,2018,41.5,Diesel,A/T,0,61000,3.0,188.0,36,1612
 BMW,X3 xDrive28i,2015,92.984,Gasoline,Transmission w/Dual Shift Mode,1,17000,2.0,240.0,4,1789
