@@ -1,3 +1,4 @@
 .venv/
 .qodo/
 .DS_Store/
+.qodo
