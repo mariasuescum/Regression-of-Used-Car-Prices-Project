@@ -228,7 +228,6 @@ Tesla,Model X Base,2023,8.2,Electric,A/T,0,93999,670.0,52,1101,2,0
 Mercedes-Benz,AMG G 63 Base,2018,41.0,Gasoline,Transmission w/Dual Shift Mode,0,108900,563.0,36,218,3,2
 Ford,Expedition Limited,2018,98.995,Gasoline,A/T,0,34998,309.0,14,636,3,0
 Volkswagen,Routan SE,2012,123.815,Gasoline,6-Speed A/T,0,5000,283.0,54,1373,3,0
-Bugatti,Veyron 16.4 Grand Sport,2011,6.33,Gasoline,7-Speed A/T with Auto-Shift,0,1950995,,6,1753,3,0
 Toyota,Highlander XLE,2020,61.341,Gasoline,8-Speed A/T,1,34084,309.0,53,868,3,0
 Honda,Civic LX,2016,96.473,Gasoline,A/T CVT,0,15599,232.0,17,463,3,0
 Jeep,Wrangler Unlimited Sahara,2017,66.107,Gasoline,5-Speed A/T,0,31331,304.0,22,1777,3,0
@@ -692,7 +691,6 @@ Cadillac,Escalade EXT Base,2009,155.0,E85 Flex Fuel,6-Speed A/T,1,16900,403.0,8,
 Scion,tC Release Series 6.0,2010,120.01,Gasoline,4-Speed A/T,1,6500,161.0,49,1896,3,0
 Kia,Optima EX,2012,152.52,Gasoline,6-Speed A/T,0,10900,200.0,24,1159,3,0
 Honda,Civic EX,1993,58.981,Electric,A/T,0,9599,,17,462,2,0
-Maserati,Quattroporte Base,2005,32.0,Gasoline,Transmission w/Dual Shift Mode,1,2954083,394.0,32,1269,3,2
 Porsche,Panamera Turbo,2015,47.0,Gasoline,Transmission w/Dual Shift Mode,0,50000,520.0,43,1193,3,2
 Genesis,G70 2.0T,2023,2.046,Gasoline,8-Speed A/T,0,43499,252.0,16,750,3,0
 Chevrolet,Trailblazer LS,2021,24.965,Gasoline,A/T CVT,1,22995,78.0,9,1708,3,0
@@ -3045,7 +3043,6 @@ RAM,1500 Big Horn,2015,140.5,Gasoline,8-Speed A/T,1,14000,395.0,44,4,3,0
 Jeep,Commander Base,2006,212.5,Gasoline,A/T,0,6500,210.0,22,475,3,0
 Lexus,IS-F Base,2010,77.4,Gasoline,8-Speed A/T,1,34500,416.0,27,888,3,0
 Ford,Utility Police Interceptor Base,2017,118.0,Gasoline,6-Speed A/T,0,15000,365.0,14,1743,3,0
-Porsche,Carrera GT Base,2005,4.4,Gasoline,6-Speed Manual,0,1599000,605.0,43,420,3,1
 Cadillac,Escalade ESV Luxury,2016,146.2,Gasoline,8-Speed A/T,0,24500,420.0,8,603,3,0
 Tesla,Model Y Performance,2020,39.0,Electric,1-Speed A/T,0,43000,455.0,52,1109,2,0
 Chevrolet,Avalanche 1500 LS,2005,130.0,E85 Flex Fuel,A/T,0,7200,295.0,9,278,1,0

@@ -11,8 +11,8 @@ from xgboost import XGBRegressor
 df = pd.read_csv("data/cleaned_dataset.csv")
 
 # Variables a usar
-num_features = ['model_year', 'milage', 'accident', 'engine_size', 'engine_hp']
-cat_features = ['brand', 'model', 'fuel_type', 'transmission']
+num_features = ['model_year', 'milage', 'accident', 'engine_hp','transmission_norm']
+cat_features = ['brand', 'model', 'fuel_type']
 target = 'price'
 
 # Separar X e y
