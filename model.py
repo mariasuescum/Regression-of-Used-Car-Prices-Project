@@ -5,11 +5,11 @@ from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.impute import SimpleImputer
 
 # Cargar el dataset
-df = pd.read_csv("data\cleaned_dataset.csv")
+df = pd.read_csv("data/final_dataset.csv")
 
 # Selección de características numéricas
 features = [
-    'model_year', 'milage', 'accident', 'engine_hp',
+    'age', 'milage', 'accident', 'engine_hp',
     'brand_id', 'model_id', 'fuel_type_id', 'transmission_norm'
 ]
 
