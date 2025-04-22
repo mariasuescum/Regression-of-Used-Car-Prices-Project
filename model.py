@@ -1,51 +1,55 @@
 import pandas as pd
-from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
+from sklearn.model_selection import train_test_split, RandomizedSearchCV
 from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.impute import SimpleImputer
+from scipy.stats import randint
 
 # Cargar el dataset
 df = pd.read_csv("data/final_dataset.csv")
 
-# Selección de características numéricas
+# Features y target
 features = [
     'age', 'milage', 'accident', 'engine_hp',
     'brand_id', 'model_id', 'fuel_type_id', 'transmission_norm'
 ]
-
-# Target
-target = 'price'
-
-# Filtrar solo las columnas necesarias
 X = df[features]
-y = df[target]
+y = df['price']
 
-# División train/test
+# División en train/test
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-# Modelo
-model = RandomForestRegressor(
-    n_estimators=100,
-    max_depth=5,
-    min_samples_leaf=12,
-    min_samples_split=23,
-    random_state=30
+# Definir modelo base
+rf = RandomForestRegressor(random_state=30)
+
+# Definir espacio de búsqueda
+param_distributions = {
+    'n_estimators': randint(100, 500),
+    'max_depth': [5, 10, 15, 20, None],
+    'min_samples_split': randint(2, 25),
+    'min_samples_leaf': randint(1, 20),
+}
+
+# Randomized Search
+random_search = RandomizedSearchCV(
+    rf,
+    param_distributions=param_distributions,
+    n_iter=50,
+    cv=5,
+    scoring='r2',
+    verbose=1,
+    n_jobs=-1,
+    random_state=42
 )
 
-# Entrenar el modelo
-model.fit(X_train, y_train)
+# Entrenar
+random_search.fit(X_train, y_train)
 
-# Predicciones
-y_train_pred = model.predict(X_train)
-y_test_pred = model.predict(X_test)
+# Mejor modelo
+best_model = random_search.best_estimator_
+print("Mejores hiperparámetros:", random_search.best_params_)
 
-# Métricas
-mse = mean_squared_error(y_test, y_test_pred)
-r2_train = r2_score(y_train, y_train_pred)
-r2_test = r2_score(y_test, y_test_pred)
-overfit_diff = r2_train - r2_test
-
-print(f"Mean Squared Error (Test): {mse:.2f}")
-print(f"R² Entrenamiento: {r2_train:.4f}")
-print(f"R² Test: {r2_test:.4f}")
-print(f"Overfitting (diferencia): {overfit_diff:.4f}")
+# Evaluación
+y_pred = best_model.predict(X_test)
+print(f"R² Test: {r2_score(y_test, y_pred):.4f}")
+print(f"MSE Test: {mean_squared_error(y_test, y_pred):.2f}")
