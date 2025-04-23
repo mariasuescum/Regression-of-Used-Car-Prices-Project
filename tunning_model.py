@@ -4,6 +4,8 @@ from sklearn.model_selection import train_test_split, RandomizedSearchCV
 from sklearn.metrics import mean_squared_error, r2_score
 from scipy.stats import randint
 import joblib
+from sklearn.model_selection import KFold, cross_val_score
+import numpy as np
 
 # 1. Cargar datos
 df = pd.read_csv("data/final_dataset.csv")
@@ -77,6 +79,14 @@ print("Mejores hiperparámetros:", random_search.best_params_)
 print(f"R² Test: {r2_score(y_test, y_pred):.4f}")
 print(f"MSE Test: {mean_squared_error(y_test, y_pred):.2f}")
 print(f"Overfitting (diferencia): {overfit_diff:.4f}")
+
+# Validación cruzada K-Fold
+kf = KFold(n_splits=5, shuffle=True, random_state=42)
+cv_scores = cross_val_score(best_model, X, y, cv=kf, scoring='r2')
+print("-------VALIDACIÓN CRUZADA K-Fold:-------")
+print("R² por fold:", cv_scores)
+print(f"R² promedio: {np.mean(cv_scores):.4f}")
+print(f"Desviación estándar: {np.std(cv_scores):.4f}")
 
 # 6. Guardar modelo entrenado
 joblib.dump(best_model, "models/random_forest_best.pkl")
