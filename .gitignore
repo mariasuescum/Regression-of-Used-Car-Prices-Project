@@ -1,4 +1,5 @@
 .venv/
 .qodo/
 .DS_Store/
-.qodo
+.qodo/
+__pycache__/
