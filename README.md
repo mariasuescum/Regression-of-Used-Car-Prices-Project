@@ -108,6 +108,35 @@ El modelo generaliza bien y no muestra signos de sobreajuste ya que hemos ajusta
 
 Es una interfaz fácil e intuitiva.
 
+## 🧾 Test unitarios
+
+Para garantizar la calidad y fiabilidad del modelo y el preprocesamiento de datos, hemos implementado pruebas unitarias utilizando la librería `unittest` de Python. Creamos 5 diferentes test para verificar que:
+- Se pasan las variables (características) necesarios: age, milage, accident, engine_hp, brand_id, model_id, fuel_type_id, transmission_norm
+- Existe la columna ‘price’
+- La métrica R² es mayor que 0.70 y el modelo funciona de forma eficiente
+- MSE sea menor que 170000000
+- El modelo se guarda correctamente en la carpeta models
+
+¿Cómo ejecutar las pruebas?
+
+Ejecuta el script:
+```bash
+python -m unittest tests/model_tests.py
+```
+
+Esto ejecutará todas las pruebas unitarias definidas en el archivo `model_tests.py`.
+
+**¿Qué pruebas se incluyen?**
+
+- **Test de Preprocesamiento:** Verifica que los datos se carguen correctamente y se procesen sin errores.
+- **Test de Métricas:** Asegura que las métricas como el **MSE** y el **R²** cumplan con los valores mínimos establecidos para garantizar que el modelo tenga un rendimiento aceptable.
+
+**¿Por qué utilizar Unit Tests?**
+
+Con estos tests podemos detectar errores en el proyecto y asegurar que los componentes del proyecto sigan funcionando correctamente cuando se realicen cambios o mejoras. 
+
+Esto es especialmente útil en proyectos de Machine Learning, donde el preprocesamiento, la selección de características y el modelo pueden verse afectados por cambios en los datos o en el código.
+
 ## 👥 Trabajo en equipo
 
 Para optimizar el rendimiento del equipo, adoptamos el modelo de trabajo Gitflow junto con GitHub y ramas de trabajo en local y remoto, y aplicamos la metodología Scrum. Desde el inicio del proyecto, definimos fechas límite claras para cada tarea asignada a los miembros del equipo. 
