@@ -1,12 +1,12 @@
 import gradio as gr
 from rf_best_prediction import predict_price
-from config import brands, fuel_types, transmissions
+from config import brands, models, fuel_types, transmissions
 import datetime
 
 
 # Esta función recoge los valores del usuario, prepara el dict y llama al modelo
 def estimate_price_interface(
-    brand, fuel_type, transmission, year, milage, engine_hp, accident
+    brand, model, fuel_type, transmission, year, milage, engine_hp, accident
 ):
     current_year = datetime.datetime.now().year
     age = current_year - year
@@ -14,6 +14,7 @@ def estimate_price_interface(
     # Creamos el diccionario que espera el modelo
     inputs = {
         "brand": brand,
+        "model": model,
         "fuel_type": fuel_type,
         "transmission": transmission,
         "age": age,
@@ -43,6 +44,8 @@ with gr.Blocks(title="Tasador Inteligente de Vehículos") as demo:
     # Fila de selección
     with gr.Row():
         brand = gr.Dropdown(label="Marca", choices=brands)
+        model = gr.Dropdown(label="Modelo", choices=models)
+
         fuel_type = gr.Dropdown(label="Tipo de combustible", choices=fuel_types)
         transmission = gr.Radio(label="Transmisión", choices=transmissions)
 
