@@ -46,6 +46,7 @@ with gr.Blocks(title="Tasador Inteligente de Vehículos") as demo:
         brand = gr.Dropdown(label="Marca", choices=brands)
         model = gr.Dropdown(label="Modelo", choices=models)
 
+    with gr.Row():
         fuel_type = gr.Dropdown(label="Tipo de combustible", choices=fuel_types)
         transmission = gr.Radio(label="Transmisión", choices=transmissions)
 
@@ -67,9 +68,19 @@ with gr.Blocks(title="Tasador Inteligente de Vehículos") as demo:
     btn = gr.Button("📊 Estimar precio")
     btn.click(
         fn=estimate_price_interface,
-        inputs=[brand, fuel_type, transmission, year, milage, engine_hp, accident],
+        inputs=[
+            brand,
+            model,
+            fuel_type,
+            transmission,
+            year,
+            milage,
+            engine_hp,
+            accident,
+        ],
         outputs=output,
     )
+
 
 # Lanza la app localmente (http://localhost:7860)
 if __name__ == "__main__":
