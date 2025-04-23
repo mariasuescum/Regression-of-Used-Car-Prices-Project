@@ -39,20 +39,44 @@ random_search = RandomizedSearchCV(
 )
 random_search.fit(X_train, y_train)
 
-# Calcular R² y Overfitting
-y_train_pred = random_search.predict(X_train)
+# Modelo
+model = RandomForestRegressor(
+    n_estimators=100,
+    max_depth=5,
+    min_samples_leaf=12,
+    min_samples_split=23,
+    random_state=30
+)
+
+# Entrenar el modelo
+model.fit(X_train, y_train)
+
+# Predicciones
+y_train_pred = model.predict(X_train)
+y_test_pred = model.predict(X_test)
+
+# Métricas
+mse = mean_squared_error(y_test, y_test_pred)
 r2_train = r2_score(y_train, y_train_pred)
-r2_test = r2_score(y_test, y_pred)
+r2_test = r2_score(y_test, y_test_pred)
 overfit_diff = r2_train - r2_test
 
+# MODELO BASE
+print("---------MODELO BASE--------------")
+print(f"R² Entrenamiento: {r2_train:.4f}")
+print(f"R² Test: {r2_test:.4f}")
+print(f"MSE Test: {mse:.2f}")
+print(f"Overfitting (diferencia): {overfit_diff:.4f}")
 
-# 5. Evaluación
+print("---------MODELO MEJORADO-----------")
+
+# MODELO MEJORADO 
 best_model = random_search.best_estimator_
 y_pred = best_model.predict(X_test)
 print("Mejores hiperparámetros:", random_search.best_params_)
 print(f"R² Test: {r2_score(y_test, y_pred):.4f}")
 print(f"MSE Test: {mean_squared_error(y_test, y_pred):.2f}")
-print(f"Overfitting: {overfit_diff:.4f}")
+print(f"Overfitting (diferencia): {overfit_diff:.4f}")
 
 # 6. Guardar modelo entrenado
 joblib.dump(best_model, "models/random_forest_best.pkl")
