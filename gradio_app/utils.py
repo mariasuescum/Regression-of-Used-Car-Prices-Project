@@ -1973,11 +1973,6 @@ model_enum_dict = {
 }
 
 
-def encode_model(model: str) -> int:
-    """
-    Convierte un modelo de coche en su código numérico.
-    """
-    return model_enum_dict.get(model, -1)
 
 
 # Tipo de transmisión
