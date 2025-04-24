@@ -49,13 +49,21 @@ python tunning_model.py
 │   ├── fuel_type_enumeration.csv          # Codificación tipo de combustible
 │   ├── model_enumeration.csv              # Codificación de modelos
 │   └── transmission_enumeration.csv       # Codificación de transmisión
-├── models/
-│   └── random_forest_best.pkl             # Modelo entrenado con mejores hiperparámetros
-├── used_cars.ipynb                        # Notebook de exploración, visualización y análisis de datos
+├── gradio_app/
+│   ├── config.py                          # Librerías de nuestras variables desplegables en el interfaz
+│   ├── main.py                            # Función recoge los valores, prepara el dict,llama al modelo
+│   ├── rf_best_prediction.py              # Carga el modelo desde el archivo .pkl
+│   ├── utils.py                           # Diccionarios de codificación a partir de los _enumeration
+├── images/
+│   ├── config.py                          # Librerías de nuestras variables desplegables en el interfaz
+├── models/                                # Carpeta con imágenes para la documentación
+├── tests/
+│   ├── model_tests.py                     # Script para tests unitarios
 ├── model.py                               # Script base de entrenamiento
-├── tunning_model.py                       # Script final con ajuste de hiperparámetros, K-Fold y evaluación
 ├── README.md
 └── requirements.txt                       # Dependencias del proyecto
+├── tunning_model.py                       # Script final con ajuste de hiperparámetros, K-Fold y evaluación
+├── used_cars.ipynb                        # Notebook de exploración, visualización y análisis de datos
 ```
 
 ## 🧾 Dataset
@@ -104,9 +112,22 @@ El modelo generaliza bien y no muestra signos de sobreajuste ya que hemos ajusta
 
 
 ## Interfaz gráfica con Gradio para uso personal o profesional
-[Link]()
+[Link](https://tasador-n6ex.onrender.com)
 
 Es una interfaz fácil e intuitiva.
+
+![Interfaz gráfica con Gradio](images/interfaz.png)
+
+Para ponerlo en marcha:
+```bash
+python gradio_app/main.py
+```
+
+Y en tu navegador ingresa:
+```bash
+http://127.0.0.1:7860
+```
+Y ya puedes utilizar el Tasador de coches de segundamano.
 
 ## 🧾 Test unitarios
 
