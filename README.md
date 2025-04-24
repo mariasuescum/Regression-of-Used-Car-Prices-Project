@@ -108,6 +108,19 @@ El modelo generaliza bien y no muestra signos de sobreajuste ya que hemos ajusta
 
 Es una interfaz fácil e intuitiva.
 
+![Interfaz gráfica con Gradio](images/interfaz.png)
+
+Para ponerlo en marcha:
+```bash
+python gradio_app/main.py
+```
+
+Y en tu navegador ingresa:
+```bash
+http://127.0.0.1:7860
+```
+Y ya puedes utilizar el Tasador de coches de segundamano.
+
 ## 🧾 Test unitarios
 
 Para garantizar la calidad y fiabilidad del modelo y el preprocesamiento de datos, hemos implementado pruebas unitarias utilizando la librería `unittest` de Python. Creamos 5 diferentes test para verificar que:
