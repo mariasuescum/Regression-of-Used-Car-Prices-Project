@@ -1,0 +1,7 @@
+fuel_type,code
+Diesel,0
+E85 Flex Fuel,1
+Electric,2
+Gasoline,3
+Hybrid,4
+Plug-In Hybrid,5
