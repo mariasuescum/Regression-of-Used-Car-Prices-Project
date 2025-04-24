@@ -112,13 +112,13 @@ El modelo generaliza bien y no muestra signos de sobreajuste ya que hemos ajusta
 
 
 ## Interfaz gráfica con Gradio para uso personal o profesional
-[Link](https://tasador-n6ex.onrender.com)
+[Haz click aquí para visitar nuestra web en línea](https://tasador-n6ex.onrender.com)
 
-Es una interfaz fácil e intuitiva.
+Es una interfaz fácil e intuitiva hecho con Gradio y desplegado en render.com
 
 ![Interfaz gráfica con Gradio](images/interfaz.png)
 
-Para ponerlo en marcha:
+Para ponerlo en marcha desde el terminal:
 ```bash
 python gradio_app/main.py
 ```
