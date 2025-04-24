@@ -158,6 +158,36 @@ Con estos tests podemos detectar errores en el proyecto y asegurar que los compo
 
 Esto es especialmente útil en proyectos de Machine Learning, donde el preprocesamiento, la selección de características y el modelo pueden verse afectados por cambios en los datos o en el código.
 
+ 
+## Versión Dockerizada
+
+También hemos creado una imagen de Docker para que nuestro proyecto sea consistente, reproducible desde cualquier ordenador y sea fácil de compartir. 
+Puedes poner en marcha el Tasador siguientdo los siguientes pasos:
+
+Paso 1: Abre Docker Desktop en tu ordenador.
+
+Paso 2: Descarga la [imagen](https://hub.docker.com/r/allaharuty/tasador) en tu terminal:
+```bash
+docker pull allaharuty/tasador:latest
+```
+
+Paso 3: Ejecuta la imagen:
+```bash
+docker run -p 8080:8080 allaharuty/tasador
+```
+
+Paso 4: Ve a tu navegador y pega:
+```bash
+0.0.0.0:8080/
+```
+
+ó 
+
+```bash
+localhost:8080/
+```
+
+
 ## 👥 Trabajo en equipo
 
 Para optimizar el rendimiento del equipo, adoptamos el modelo de trabajo Gitflow junto con GitHub y ramas de trabajo en local y remoto, y aplicamos la metodología Scrum. Desde el inicio del proyecto, definimos fechas límite claras para cada tarea asignada a los miembros del equipo. 
