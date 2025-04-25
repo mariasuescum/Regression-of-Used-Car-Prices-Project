@@ -3,4 +3,5 @@
 .DS_Store
 .qodo/
 __pycache__/
+data/logs.csv
 *.pyc
