@@ -45,23 +45,34 @@ python tunning_model.py
 │   ├── brand_enumeration.csv              # Codificación de marcas
 │   ├── cleaned_dataset.csv                # Dataset limpio v1
 │   ├── final_dataset.csv                  # Dataset limpio final
-│   ├── used_cars.csv                      # Dataset original
 │   ├── fuel_type_enumeration.csv          # Codificación tipo de combustible
+│   ├── logs.csv                           # Dataset donde se guardan las predicciones
+│   ├── model_brand_mapping.csv            # Conexión entre modelo y marca de coche
 │   ├── model_enumeration.csv              # Codificación de modelos
 │   └── transmission_enumeration.csv       # Codificación de transmisión
+│   ├── used_cars.csv                      # Dataset original
 ├── gradio_app/
 │   ├── config.py                          # Librerías de nuestras variables desplegables en el interfaz
+│   ├── logger.py                          # Función que guarda las predicciones en logs.py
 │   ├── main.py                            # Función recoge los valores, prepara el dict,llama al modelo
 │   ├── rf_best_prediction.py              # Carga el modelo desde el archivo .pkl
 │   ├── utils.py                           # Diccionarios de codificación a partir de los _enumeration
-├── images/
-│   ├── config.py                          # Librerías de nuestras variables desplegables en el interfaz
-├── models/                                # Carpeta con imágenes para la documentación
+├── images/                                # Imágenes usadas para README      
+├── models/     
+│   ├── random_forest_best.pkl             # pkl del modelo
+│   ├── random_forest_test.pkl             # pkl del test 
+├── outputs/                               # Imágenes usadas para report.ipynb    
 ├── tests/
 │   ├── model_tests.py                     # Script para tests unitarios
+├── .dockerignore
+├── .gitignore
+├── .renderignore
+├── .runtime.txt
+├── Dockerfile
 ├── model.py                               # Script base de entrenamiento
 ├── README.md
-└── requirements.txt                       # Dependencias del proyecto
+├── report.ipynb
+├── requirements.txt                       # Dependencias del proyecto
 ├── tunning_model.py                       # Script final con ajuste de hiperparámetros, K-Fold y evaluación
 ├── used_cars.ipynb                        # Notebook de exploración, visualización y análisis de datos
 ```
@@ -128,6 +139,10 @@ Y en tu navegador ingresa:
 http://0.0.0.0:8080
 ```
 Y ya puedes utilizar el Tasador de coches de segundamano.
+
+> [!NOTE]
+>
+> Cabe destacar, que cada solicitud que se hace en en nuestro modelo Tasador, estos se guardan en un archivo llamado logs.csv en fomrato Dataset, que es un sistema de recogida de feedback para monitorizar la performance del modelo y usarlo para reentrenar y la mejora continua del mismo.
 
 ## 🧾 Test unitarios
 
