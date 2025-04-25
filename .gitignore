@@ -3,3 +3,4 @@
 .DS_Store
 .qodo/
 __pycache__/
+*.pyc
