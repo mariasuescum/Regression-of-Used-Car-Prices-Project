@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.vscode/
+.idea/
+.gitignore
+
+*.ipynb
+
+.DS_Store
+*.tar
