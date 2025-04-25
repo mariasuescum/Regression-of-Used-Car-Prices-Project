@@ -1,0 +1,17 @@
+brand,model,fuel_type,transmission,age,milage,engine_hp,accident,predicted_price,timestamp
+Alfa,Romeo Giulia Base,Diesel,,10,60,150,0,inf,2025-04-25 13:43:52
+Chevrolet,Camaro 1SS,Diesel,Automatico,10,60,150,0,inf,2025-04-25 14:18:39
+FIAT,500e Battery Electric,Diesel,Automatico,10,60,150,0,inf,2025-04-25 14:21:45
+FIAT,500e Battery Electric,Diesel,Automatico,5,70,200,0,inf,2025-04-25 14:21:59
+Ford,Bronco,Diesel,Manual,5,70,200,0,inf,2025-04-25 14:35:55
+Audi,A3 2.0T Tech Premium,Diesel,Manual,10,60,150,0,inf,2025-04-25 14:36:10
+Aston,Martin DBS Superleggera,Electric,Automatico,16,60,150,0,10043.643363174995,2025-04-25 14:39:39
+Aston,Martin DBS Superleggera,Electric,Automatico,16,60,150,0,10043.643363174995,2025-04-25 14:40:08
+Aston,Martin DBS Superleggera,Electric,Automatico,16,60,150,0,10043.643363174995,2025-04-25 14:42:54
+Aston,Martin DBS Superleggera,Electric,Automatico,16,60,150,0,10043.643363174995,2025-04-25 14:43:03
+Aston,Martin DBS Superleggera,Electric,Automatico,16,60,150,0,10043.643363174995,2025-04-25 14:43:06
+Audi,A3 2.0 TDI Premium Plus,Electric,Automatico,16,60,150,0,10197.481426019182,2025-04-25 14:44:17
+Audi,A3 2.0 TDI Premium Plus,Electric,Automatico,16,60,150,0,10197.481426019182,2025-04-25 14:44:20
+Audi,A3 2.0 TDI Premium Plus,Electric,Automatico,16,60,150,0,10197.481426019182,2025-04-25 14:44:31
+Alfa,Romeo Giulia Base,Diesel,,10,60,150,0,26720.35694849368,2025-04-25 14:53:56
+Audi,A3 2.0T Tech Premium,Diesel,,10,60,150,0,26697.220003239385,2025-04-25 15:21:57
