@@ -7,5 +7,6 @@ outputs/
 report.ipynb
 Dockerfile
 model.py
-images/
+images/desplegado_render.png
+images/tests_passed.png
 data/logs.csv
