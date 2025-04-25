@@ -3,3 +3,9 @@ data/cleaned_dataset.csv
 images/interfaz.png
 images/métricas_modelo.png
 used_cars.ipynb
+outputs/
+report.ipynb
+Dockerfile
+model.py
+images/
+data/logs.csv
