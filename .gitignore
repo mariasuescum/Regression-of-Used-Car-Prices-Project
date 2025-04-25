@@ -1,5 +1,5 @@
 .venv/
 .qodo/
-.DS_Store/
+.DS_Store
 .qodo/
 __pycache__/
