@@ -116,7 +116,7 @@ El modelo generaliza bien y no muestra signos de sobreajuste ya que hemos ajusta
 
 Es una interfaz fácil e intuitiva hecho con Gradio y desplegado en render.com
 
-![Interfaz gráfica con Gradio](images/interfaz.png)
+![Interfaz gráfica con Gradio](images/desplegado_render.png)
 
 Para ponerlo en marcha desde el terminal:
 ```bash
@@ -125,7 +125,7 @@ python gradio_app/main.py
 
 Y en tu navegador ingresa:
 ```bash
-http://127.0.0.1:7860
+http://0.0.0.0:8080
 ```
 Y ya puedes utilizar el Tasador de coches de segundamano.
 
@@ -157,6 +157,8 @@ Esto ejecutará todas las pruebas unitarias definidas en el archivo `model_tests
 Con estos tests podemos detectar errores en el proyecto y asegurar que los componentes del proyecto sigan funcionando correctamente cuando se realicen cambios o mejoras. 
 
 Esto es especialmente útil en proyectos de Machine Learning, donde el preprocesamiento, la selección de características y el modelo pueden verse afectados por cambios en los datos o en el código.
+
+![Tests passed](images/tests_passed.png)
 
  
 ## Versión Dockerizada
