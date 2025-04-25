@@ -1,6 +1,8 @@
 import gradio as gr
 import pandas as pd
 import datetime
+from logger import save_prediction_to_csv
+
 
 # Cargamos el modelo real de predicción
 from rf_best_prediction import predict_price
@@ -34,6 +36,8 @@ def estimate_price_interface(brand, model, fuel_type, transmission, year, milage
     }
 
     predicted_price = predict_price(inputs)
+    # 💾 Guardar predicción en logs.csv
+    save_prediction_to_csv(inputs, predicted_price)
     price_buy = predicted_price - 500
     price_sell = predicted_price + 500
 
