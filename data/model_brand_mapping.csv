@@ -1,0 +1,1819 @@
+model,brand
+124 Spider Abarth,FIAT
+128 i,BMW
+135 i,BMW
+135 is,BMW
+1500 Big Horn,RAM
+1500 Classic SLT,RAM
+1500 Classic Tradesman,RAM
+1500 Classic Warlock,RAM
+1500 Laramie,RAM
+1500 Limited,RAM
+1500 Longhorn,RAM
+1500 Rebel,RAM
+1500 SLT,RAM
+1500 Sport,RAM
+1500 TRX,RAM
+1500 Tradesman/Express,RAM
+200 C,Chrysler
+200 Limited,Chrysler
+228 Gran Coupe i xDrive,BMW
+228 i,BMW
+230 i,BMW
+2500 Big Horn,RAM
+2500 Laramie,RAM
+2500 Longhorn,RAM
+2500 Powerwagon,RAM
+2500 SLT,RAM
+2500 Tradesman,RAM
+300 Base,Chrysler
+300 S,Chrysler
+300 Touring,Chrysler
+300C Base,Chrysler
+300C SRT8,Chrysler
+300M Base,Chrysler
+320 i xDrive,BMW
+323 Ci,BMW
+325 Ci,BMW
+325 i,BMW
+325 xi,BMW
+328 i,BMW
+328 i xDrive,BMW
+328 xi,BMW
+330 330i xDrive,BMW
+330 i,BMW
+330 i xDrive,BMW
+330e iPerformance,BMW
+335 i,BMW
+335 i xDrive,BMW
+335 is,BMW
+340 i,BMW
+3500 Laramie,RAM
+3500 SLT,RAM
+3500 Tradesman,RAM
+350Z Enthusiast,Nissan
+350Z NISMO,Nissan
+350Z Touring,Nissan
+370Z Base,Nissan
+370Z NISMO,Nissan
+370Z NISMO Tech,Nissan
+370Z Touring,Nissan
+428 Gran Coupe i xDrive,BMW
+428 i,BMW
+428 i xDrive,BMW
+428 i xDrive SULEV,BMW
+430 430i,BMW
+430 Gran Coupe i xDrive,BMW
+430 i,BMW
+430 i xDrive,BMW
+435 Gran Coupe i,BMW
+435 i,BMW
+435 i xDrive,BMW
+440 Gran Coupe 440i xDrive,BMW
+440 Gran Coupe i,BMW
+440 i xDrive,BMW
+4Runner 4WD,Toyota
+4Runner Limited,Toyota
+4Runner Limited Nightshade,Toyota
+4Runner SR5,Toyota
+4Runner SR5 Premium,Toyota
+4Runner Sport,Toyota
+4Runner TRD Off Road,Toyota
+4Runner TRD Pro,Toyota
+4Runner TRD Sport,Toyota
+4Runner Trail,Toyota
+4Runner Venture,Toyota
+500 Lounge,FIAT
+500 Sport,FIAT
+500X Trekking Plus,FIAT
+500e Battery Electric,FIAT
+525 i,BMW
+528 i,BMW
+528 i xDrive,BMW
+530 i,BMW
+530 i xDrive,BMW
+530e Base,BMW
+535 i,BMW
+535 i xDrive,BMW
+540 i,BMW
+540 i xDrive,BMW
+550 Gran Turismo i,BMW
+550 i xDrive,BMW
+570S Base,McLaren
+570S Spider,McLaren
+640 Gran Coupe i,BMW
+640 Gran Coupe i xDrive,BMW
+640 i,BMW
+650 Gran Coupe i,BMW
+650 Gran Coupe i xDrive,BMW
+650 i,BMW
+650 i xDrive,BMW
+718 Boxster Base,Porsche
+718 Boxster GTS,Porsche
+718 Boxster S,Porsche
+718 Cayman GT4,Porsche
+718 Cayman GTS,Porsche
+718 Cayman S,Porsche
+718 Spyder Base,Porsche
+740 Li,BMW
+740 i,BMW
+740 iL,BMW
+740e xDrive iPerformance,BMW
+750 750i xDrive,BMW
+750 Li,BMW
+750 Li xDrive,BMW
+750 i,BMW
+750 i xDrive,BMW
+750 iL,BMW
+840 Gran Coupe i xDrive,BMW
+840 i xDrive,BMW
+86 860 Special Edition,Toyota
+86 Base,Toyota
+9-3 Aero,Saab
+9-3 SE,Saab
+911 Carrera,Porsche
+911 Carrera 4,Porsche
+911 Carrera 4 Cabriolet,Porsche
+911 Carrera 4 GTS,Porsche
+911 Carrera 4S,Porsche
+911 Carrera 4S Cabriolet,Porsche
+911 Carrera C2S,Porsche
+911 Carrera C4S,Porsche
+911 Carrera Cabriolet,Porsche
+911 Carrera GTS,Porsche
+911 Carrera S,Porsche
+911 Carrera S Cabriolet,Porsche
+911 Carrera Turbo,Porsche
+911 GT3,Porsche
+911 Targa 4 GTS,Porsche
+911 Turbo,Porsche
+911 Turbo Cabriolet,Porsche
+911 Turbo S,Porsche
+A-Class A 220 4MATIC,Mercedes-Benz
+A3 2.0 TDI Premium Plus,Audi
+A3 2.0T,Audi
+A3 2.0T Premium,Audi
+A3 2.0T Tech Premium,Audi
+A4 2.0T Premium,Audi
+A4 2.0T Premium Plus,Audi
+A4 2.0T Premium Plus quattro,Audi
+A4 2.0T Premium quattro,Audi
+A4 2.0T Tech Premium,Audi
+A4 2.0T Titanium Premium,Audi
+A4 3.2 Premium Plus quattro,Audi
+A5 2.0T Premium,Audi
+A5 2.0T Premium Plus,Audi
+A5 2.0T Prestige,Audi
+A5 45 S line Premium Plus,Audi
+A5 Sportback S line Premium Plus,Audi
+A6 2.0T Premium Plus,Audi
+A6 2.0T Sport,Audi
+A6 3.0 TDI Premium Plus,Audi
+A6 3.0T Premium Plus,Audi
+A6 3.0T Prestige,Audi
+A6 3.2 quattro,Audi
+A6 45 Premium Plus,Audi
+A6 55 Premium,Audi
+A6 55 Prestige,Audi
+A7 3.0T Premium,Audi
+A7 3.0T Premium Plus,Audi
+A7 3.0T Prestige,Audi
+A7 55 Premium,Audi
+A7 55 Premium Plus,Audi
+A7 Premium,Audi
+A7 Premium Plus,Audi
+A8 4.0,Audi
+A8 4.0T,Audi
+A8 L 3.0T,Audi
+A8 L 4.0T,Audi
+A8 L 55,Audi
+ALPINA B7 ALPINA B7 xDrive,BMW
+ALPINA B7 Base,BMW
+ALPINA B7 xDrive,BMW
+AMG C 43 AMG C 43 4MATIC,Mercedes-Benz
+AMG C 43 Base,Mercedes-Benz
+AMG C 43 Base 4MATIC,Mercedes-Benz
+AMG C 63 Base,Mercedes-Benz
+AMG C 63 S,Mercedes-Benz
+AMG C AMG C 63,Mercedes-Benz
+AMG C AMG C 63 S,Mercedes-Benz
+AMG CLA 45 Base 4MATIC,Mercedes-Benz
+AMG E 53 Base 4MATIC,Mercedes-Benz
+AMG E 63 S 4MATIC,Mercedes-Benz
+AMG G 63 Base,Mercedes-Benz
+AMG G AMG G 63 4MATIC,Mercedes-Benz
+AMG GL AMG GL 63 4MATIC,Mercedes-Benz
+AMG GLA 45 Base 4MATIC,Mercedes-Benz
+AMG GLC 43 AMG GLC 43,Mercedes-Benz
+AMG GLC 63 Base 4MATIC,Mercedes-Benz
+AMG GLE 43 4MATIC Coupe,Mercedes-Benz
+AMG GLE 43 Coupe 4MATIC,Mercedes-Benz
+AMG GLE 53 AMG GLE 53,Mercedes-Benz
+AMG GLE 63 S Coupe 4MATIC,Mercedes-Benz
+AMG GLE AMG GLE 63 S-Model 4MATIC,Mercedes-Benz
+AMG GLS 63 4MATIC,Mercedes-Benz
+AMG GT 53 Base,Mercedes-Benz
+AMG GT 63 S 4-Door,Mercedes-Benz
+AMG GT AMG GT,Mercedes-Benz
+AMG GT AMG GT S,Mercedes-Benz
+AMG GT Base,Mercedes-Benz
+AMG GT C,Mercedes-Benz
+AMG GT R,Mercedes-Benz
+AMG S 63 Base 4MATIC,Mercedes-Benz
+ATS 2.0L Turbo,Cadillac
+ATS 2.0L Turbo Luxury,Cadillac
+ATS 2.5L,Cadillac
+ATS 2.5L Luxury,Cadillac
+ATS 3.6L Luxury,Cadillac
+Acadia Denali,GMC
+Acadia SLE,GMC
+Acadia SLE-1,GMC
+Acadia SLE-2,GMC
+Acadia SLT-1,GMC
+Acadia SLT-2,GMC
+Accent GL,Hyundai
+Accent GLS,Hyundai
+Accent SEL,Hyundai
+Accord Crosstour EX-L,Honda
+Accord EX-L,Honda
+Accord EX-L 2.0T,Honda
+Accord Hybrid Base,Honda
+Accord Hybrid Touring,Honda
+Accord Sport,Honda
+Air Grand Touring,Lucid
+Air Pure,Lucid
+Altima 2.5 S,Nissan
+Altima 2.5 SL,Nissan
+Altima 2.5 SV,Nissan
+Armada LE,Nissan
+Armada Platinum,Nissan
+Armada SL,Nissan
+Armada SV,Nissan
+Arnage R,Bentley
+Arteon 2.0T SE,Volkswagen
+Arteon 2.0T SEL Premium R-Line,Volkswagen
+Arteon 2.0T SEL R-Line,Volkswagen
+Arteon SEL R-Line,Volkswagen
+Ascent Limited 7-Passenger,Subaru
+Ascent Touring 7-Passenger,Subaru
+Atlas 3.6L SE w/Technology,Volkswagen
+Atlas 3.6L SEL Premium,Volkswagen
+Atlas 3.6L SEL Premium R-Line,Volkswagen
+Atlas Cross Sport 3.6L V6 SEL Premium,Volkswagen
+Avalanche 1500 LS,Chevrolet
+Avalanche 1500 LT,Chevrolet
+Avalanche 1500 LTZ,Chevrolet
+Avalanche LTZ,Chevrolet
+Avalon Hybrid XLE Premium,Toyota
+Avalon Limited,Toyota
+Avalon Touring,Toyota
+Avalon XLE,Toyota
+Avalon XLS,Toyota
+Avenger SE,Dodge
+Aviator Luxury,Lincoln
+Aviator Reserve AWD,Lincoln
+BRZ Limited,Subaru
+BRZ Premium,Subaru
+Baja Base,Subaru
+Beetle 1.8T,Volkswagen
+Beetle 2.0T Final Edition SE,Volkswagen
+Beetle 2.0T S,Volkswagen
+Bentayga Activity Edition,Bentley
+Bentayga Onyx Edition,Bentley
+Bentayga Speed,Bentley
+Bentayga V8,Bentley
+Bentayga W12 Signature,Bentley
+Blazer 1LT,Chevrolet
+Blazer Premier,Chevrolet
+Bolt EUV Premier,Chevrolet
+Bolt EV LT,Chevrolet
+Boxster Base,Porsche
+Boxster Black Edition,Porsche
+Boxster GTS,Porsche
+Boxster RS 60 Spyder,Porsche
+Boxster S,Porsche
+Bronco,Ford
+Bronco Badlands,Ford
+Bronco Badlands Advanced,Ford
+Bronco Base,Ford
+Bronco Big Bend,Ford
+Bronco Big Bend Advanced,Ford
+Bronco Heritage Edition Advanced,Ford
+Bronco Outer Banks,Ford
+Bronco Outer Banks Advanced,Ford
+Bronco Raptor,Ford
+Bronco Sport Base,Ford
+Bronco Sport Big Bend,Ford
+Bronco Sport Outer Banks,Ford
+Bronco Wildtrak Advanced,Ford
+C-Class C 250 Luxury,Mercedes-Benz
+C-Class C 250 Sport,Mercedes-Benz
+C-Class C 300,Mercedes-Benz
+C-Class C 300 4MATIC,Mercedes-Benz
+C-Class C 300 4MATIC Luxury,Mercedes-Benz
+C-Class C 300 4MATIC Sport,Mercedes-Benz
+C-Class C 300 Luxury,Mercedes-Benz
+C-Class C 63 AMG,Mercedes-Benz
+C-Class C280 4MATIC,Mercedes-Benz
+C-Class C300 4MATIC,Mercedes-Benz
+C-Class C55 AMG Sport,Mercedes-Benz
+C-HR LE,Toyota
+C-Max Energi SE,Ford
+C30 T5 Premier Plus,Volvo
+C40 Recharge Pure Electric Twin Ultimate,Volvo
+C70 T5,Volvo
+CC 2.0T Sport,Volkswagen
+CC Sport,Volkswagen
+CLA-Class CLA 250,Mercedes-Benz
+CLK-Class 500 Cabriolet,Mercedes-Benz
+CLK-Class 550,Mercedes-Benz
+CLK-Class CLK 350,Mercedes-Benz
+CLS 450 Base,Mercedes-Benz
+CLS-Class CLS 400 4MATIC,Mercedes-Benz
+CLS-Class CLS 550,Mercedes-Benz
+CLS-Class CLS 63 AMG S-Model 4MATIC,Mercedes-Benz
+CLS-Class CLS500,Mercedes-Benz
+CR-V EX,Honda
+CR-V EX-L,Honda
+CR-V LX,Honda
+CR-V Touring,Honda
+CT 200h Base,Lexus
+CT 200h Premium,Lexus
+CT4 Luxury,Cadillac
+CT5 Premium Luxury,Cadillac
+CT5-V Blackwing,Cadillac
+CT5-V V-Series,Cadillac
+CT6 Luxury,Cadillac
+CT6-V 4.2L Blackwing Twin Turbo,Cadillac
+CTS 2.0L Turbo Luxury,Cadillac
+CTS 3.6L Luxury,Cadillac
+CTS 3.6L Premium,Cadillac
+CTS 3.6L Premium Luxury,Cadillac
+CTS Base,Cadillac
+CTS Luxury,Cadillac
+CTS Performance,Cadillac
+CTS Premium,Cadillac
+CTS-V Base,Cadillac
+CX-30 2.5 S Select Package,Mazda
+CX-30 Base,Mazda
+CX-30 Preferred,Mazda
+CX-30 Premium Package,Mazda
+CX-30 Select,Mazda
+CX-5 Grand Touring,Mazda
+CX-5 Touring,Mazda
+CX-50 2.5 Turbo Premium Package,Mazda
+CX-7 Grand Touring,Mazda
+CX-7 Sport,Mazda
+CX-9 Carbon Edition,Mazda
+CX-9 Grand Touring,Mazda
+CX-9 Signature,Mazda
+CX-9 Touring,Mazda
+CX-9 Touring Plus,Mazda
+CX-90 Premium,Mazda
+Caliber Express,Dodge
+California T,Ferrari
+Camaro 1LT,Chevrolet
+Camaro 1SS,Chevrolet
+Camaro 2LT,Chevrolet
+Camaro 2SS,Chevrolet
+Camaro Base,Chevrolet
+Camaro LT1,Chevrolet
+Camaro Z28,Chevrolet
+Camaro ZL1,Chevrolet
+Camry Hybrid Base,Toyota
+Camry Hybrid LE,Toyota
+Camry Hybrid XLE,Toyota
+Camry LE,Toyota
+Camry SE,Toyota
+Camry Solara SE,Toyota
+Camry Solara SLE,Toyota
+Camry Solara SLE V6,Toyota
+Camry XLE,Toyota
+Camry XSE,Toyota
+Canyon Denali,GMC
+Canyon Elevation Standard,GMC
+Caprice Classic Base,Chevrolet
+Cascada Base,Buick
+Cayenne AWD,Porsche
+Cayenne Base,Porsche
+Cayenne Diesel,Porsche
+Cayenne E-Hybrid S,Porsche
+Cayenne E-Hybrid S Platinum Edition,Porsche
+Cayenne GTS,Porsche
+Cayenne GTS Coupe AWD,Porsche
+Cayenne Platinum Edition,Porsche
+Cayenne S,Porsche
+Cayenne Turbo,Porsche
+Cayenne Turbo S,Porsche
+Cayman Base,Porsche
+Cayman GT4,Porsche
+Cayman GTS,Porsche
+Cayman R,Porsche
+Cayman S,Porsche
+Celica GT,Toyota
+Challenger GT,Dodge
+Challenger R/T,Dodge
+Challenger R/T Scat Pack,Dodge
+Challenger SE,Dodge
+Challenger SRT Demon,Dodge
+Challenger SRT Hellcat,Dodge
+Challenger SRT8,Dodge
+Challenger SXT,Dodge
+Charger Base,Dodge
+Charger GT,Dodge
+Charger R/T,Dodge
+Charger R/T 392,Dodge
+Charger R/T Scat Pack,Dodge
+Charger SE,Dodge
+Charger SRT Hellcat,Dodge
+Charger SRT Hellcat Widebody,Dodge
+Charger SRT8,Dodge
+Charger Scat Pack,Dodge
+Cherokee Sport,Jeep
+Cherokee X,Jeep
+Civic EX,Honda
+Civic LX,Honda
+Civic Si,Honda
+Civic Si Base,Honda
+Civic Sport,Honda
+Civic Type R Touring,Honda
+Clarity Plug-In Hybrid Base,Honda
+Clubman Cooper S ALL4,MINI
+Colorado LT,Chevrolet
+Colorado LT Crew Cab,Chevrolet
+Colorado Z71,Chevrolet
+Colorado Z85,Chevrolet
+Colorado ZR2,Chevrolet
+Commander Base,Jeep
+Commander Sport,Jeep
+Compass High Altitude,Jeep
+Compass Latitude,Jeep
+Compass Limited,Jeep
+Compass Sport,Jeep
+Compass Trailhawk,Jeep
+Continental GT Base,Bentley
+Continental GT Speed,Bentley
+Continental GT V8,Bentley
+Continental GT V8 S,Bentley
+Continental GT W12,Bentley
+Continental GTC Base,Bentley
+Continental GTC V8,Bentley
+Continental Reserve,Lincoln
+Convertible Cooper,MINI
+Convertible John Cooper Works,MINI
+Cooper Base,MINI
+Cooper S Base,MINI
+Cooper S Clubman Base,MINI
+Corolla CE,Toyota
+Corolla Hybrid LE,Toyota
+Corolla LE,Toyota
+Corolla S Plus,Toyota
+Corolla iM Base,Toyota
+Corsair Grand Touring,Lincoln
+Corsair Reserve,Lincoln
+Corsair Standard,Lincoln
+Corvette Base,Chevrolet
+Corvette Grand Sport,Chevrolet
+Corvette Stingray,Chevrolet
+Corvette Stingray Z51,Chevrolet
+Corvette Stingray w/1LT,Chevrolet
+Corvette Stingray w/2LT,Chevrolet
+Corvette Stingray w/3LT,Chevrolet
+Corvette Z06,Chevrolet
+Corvette Z06 w/2LZ,Chevrolet
+Corvette ZR-1,Chevrolet
+Countryman Cooper,MINI
+Countryman Cooper S,MINI
+Countryman Cooper S ALL4,MINI
+Coupe Cambiocorsa,Maserati
+Crossfire Limited,Chrysler
+Crosstour EX-L,Honda
+Crosstrek 2.0i Limited,Subaru
+Crosstrek 2.0i Premium,Subaru
+Crosstrek Premium,Subaru
+Cruze LS,Chevrolet
+Cruze LT,Chevrolet
+Cruze LT Automatic,Chevrolet
+Cruze LTZ,Chevrolet
+Cube 1.8 S,Nissan
+DTS Base,Cadillac
+DTS Luxury,Cadillac
+DTS Luxury II,Cadillac
+Dakota Big Horn/Lone Star,Dodge
+Dakota SLT,Dodge
+Dakota SLT Quad Cab,Dodge
+Dakota Sport,Dodge
+Dart SE,Dodge
+Durango GT,Dodge
+Durango R/T,Dodge
+Durango SLT,Dodge
+Durango SRT,Dodge
+Durango SRT 392,Dodge
+E-Class AMG E 53,Mercedes-Benz
+E-Class E 300,Mercedes-Benz
+E-Class E 300 4MATIC,Mercedes-Benz
+E-Class E 350,Mercedes-Benz
+E-Class E 350 4MATIC,Mercedes-Benz
+E-Class E 400,Mercedes-Benz
+E-Class E 400 4MATIC,Mercedes-Benz
+E-Class E 450 4MATIC,Mercedes-Benz
+E-Class E 550,Mercedes-Benz
+E-Class E 550 4MATIC,Mercedes-Benz
+E-Class E500,Mercedes-Benz
+E-Class E55 AMG,Mercedes-Benz
+E-PACE 300 Sport,Jaguar
+E-PACE S,Jaguar
+E150 XLT,Ford
+E250 Cargo,Ford
+E350 Super Duty Base,Ford
+E350 Super Duty XLT,Ford
+EQS 450 4MATIC,Mercedes-Benz
+EQS 450+ Base,Mercedes-Benz
+ES 250 Base,Lexus
+ES 300h Base,Lexus
+ES 330 Base,Lexus
+ES 350 Base,Lexus
+EV6 GT-Line,Kia
+Eclipse GS,Mitsubishi
+Eclipse GT,Mitsubishi
+Eclipse Spyder GS,Mitsubishi
+Eclipse Spyder GT,Mitsubishi
+EcoSport SES,Ford
+Edge SE,Ford
+Edge SEL,Ford
+Edge Sport,Ford
+Edge Titanium,Ford
+Elantra GLS,Hyundai
+Elantra HEV Limited,Hyundai
+Elantra N Base,Hyundai
+Elantra SE,Hyundai
+Element EX,Honda
+Elise Base,Lotus
+Enclave 1XL,Buick
+Enclave Avenir,Buick
+Enclave Essence,Buick
+Enclave Leather,Buick
+Enclave Premium,Buick
+Encore GX Essence,Buick
+Encore Preferred,Buick
+Envision Essence,Buick
+Envision Preferred,Buick
+Eos 2.0T,Volkswagen
+Equinox 2LT,Chevrolet
+Equinox LT,Chevrolet
+Equinox Premier w/2LZ,Chevrolet
+Equus Signature,Hyundai
+Escalade Base,Cadillac
+Escalade ESV Base,Cadillac
+Escalade ESV Luxury,Cadillac
+Escalade ESV Platinum,Cadillac
+Escalade ESV Platinum Edition,Cadillac
+Escalade ESV Premium Luxury,Cadillac
+Escalade ESV Premium Luxury Platinum,Cadillac
+Escalade ESV Sport,Cadillac
+Escalade EXT Base,Cadillac
+Escalade Luxury,Cadillac
+Escalade Platinum,Cadillac
+Escalade Platinum Edition,Cadillac
+Escalade Premium,Cadillac
+Escalade Premium Luxury,Cadillac
+Escalade Premium Luxury Platinum,Cadillac
+Escalade Sport,Cadillac
+Escalade Sport Platinum,Cadillac
+Escape Limited,Ford
+Escape PHEV SE,Ford
+Escape SE,Ford
+Escape SEL,Ford
+Escape XLT,Ford
+Eurovan MV,Volkswagen
+Evora 2+2,Lotus
+Evora 400 Base,Lotus
+Evora Base,Lotus
+Excursion Limited,Ford
+Excursion Limited 4WD,Ford
+Excursion Limited Ultimate,Ford
+Excursion XLS,Ford
+Excursion XLT 4WD,Ford
+Expedition EL King Ranch,Ford
+Expedition EL Limited,Ford
+Expedition EL XLT,Ford
+Expedition King Ranch,Ford
+Expedition Limited,Ford
+Expedition Max King Ranch,Ford
+Expedition Max Limited,Ford
+Expedition Max XLT,Ford
+Expedition Platinum,Ford
+Expedition Timberline,Ford
+Expedition XLT,Ford
+Explorer Eddie Bauer,Ford
+Explorer Limited,Ford
+Explorer Platinum,Ford
+Explorer ST,Ford
+Explorer Sport,Ford
+Explorer Sport Trac XLT,Ford
+Explorer Timberline,Ford
+Explorer XLT,Ford
+Explorer sport,Ford
+Express 1500 Base,Chevrolet
+Express 1500 Cargo,Chevrolet
+Express 1500 Work Van,Chevrolet
+Express 2500 Work Van,Chevrolet
+Express 3500 Base,Chevrolet
+Express 3500 LT,Chevrolet
+F-150 FX4,Ford
+F-150 Heritage XL SuperCab Flareside,Ford
+F-150 Lariat,Ford
+F-150 Lariat SuperCrew,Ford
+F-150 Lightning LARIAT,Ford
+F-150 Lightning XLT,Ford
+F-150 Limited,Ford
+F-150 Platinum,Ford
+F-150 Raptor,Ford
+F-150 SVT Raptor,Ford
+F-150 Tremor,Ford
+F-150 XL,Ford
+F-150 XLT,Ford
+F-150 XLT SuperCab,Ford
+F-250 Base,Ford
+F-250 King Ranch,Ford
+F-250 LARIAT,Ford
+F-250 Lariat,Ford
+F-250 Limited,Ford
+F-250 Platinum,Ford
+F-250 XL,Ford
+F-250 XL Crew Cab Super Duty,Ford
+F-250 XLT,Ford
+F-250 XLT Crew Cab Super Duty,Ford
+F-250 XLT Super Duty,Ford
+F-250 XLT SuperCab Super Duty,Ford
+F-350 King Ranch,Ford
+F-350 Lariat,Ford
+F-350 Lariat Crew Cab Super Duty DRW,Ford
+F-350 Lariat Super Duty Crew Cab,Ford
+F-350 Platinum,Ford
+F-350 XL,Ford
+F-350 XLT,Ford
+F-PACE 25t Premium,Jaguar
+F-PACE 30t R-Sport,Jaguar
+F-PACE 35t Premium,Jaguar
+F-PACE S,Jaguar
+F-PACE SVR,Jaguar
+F-TYPE,Jaguar
+F-TYPE R,Jaguar
+F-TYPE S,Jaguar
+F-TYPE S British Design Edition,Jaguar
+F-TYPE V6 S,Jaguar
+F430 Berlinetta,Ferrari
+FF Base,Ferrari
+FJ Cruiser Base,Toyota
+FR-S Monogram,Scion
+FX37 Base,INFINITI
+FX50 Base,INFINITI
+Fiesta ST,Ford
+Firebird Base,Pontiac
+Firebird Trans Am,Pontiac
+Fit Sport,Honda
+Flex Limited,Ford
+Flex SEL,Ford
+Flying Spur V8,Bentley
+Focus RS Base,Ford
+Focus SE,Ford
+Focus SEL,Ford
+Focus ST Base,Ford
+ForTwo Pure,smart
+Forester 2.5 X,Subaru
+Forester 2.5 XT,Subaru
+Forester 2.5i Limited,Subaru
+Forester Base,Subaru
+Forester Premium,Subaru
+Forte GT-Line,Kia
+Forte Koup EX,Kia
+Forte LX,Kia
+Forte LXS,Kia
+Frontier SE Crew Cab,Nissan
+Frontier SL,Nissan
+Frontier SV,Nissan
+Fusion Energi Titanium,Ford
+Fusion Hybrid Base,Ford
+Fusion Hybrid SE,Ford
+Fusion Hybrid SE Hybrid,Ford
+Fusion Hybrid Titanium,Ford
+Fusion SE,Ford
+G-Class G 550,Mercedes-Benz
+G-Class G 550 4MATIC,Mercedes-Benz
+G-Class G 63 AMG,Mercedes-Benz
+G35 Base,INFINITI
+G35 Sport,INFINITI
+G37 Journey,INFINITI
+G37 S Sport,INFINITI
+G37 Sport,INFINITI
+G37 x,INFINITI
+G6 GTP,Pontiac
+G70 2.0T,Genesis
+G70 3.3T,Genesis
+G70 3.3T Advanced,Genesis
+G8 GT,Pontiac
+G80 2.5T,Genesis
+G80 3.3T Sport,Genesis
+G80 3.8,Genesis
+G90 3.3T Premium,Genesis
+G90 5.0 Ultimate,Genesis
+GL-Class GL 450,Mercedes-Benz
+GL-Class GL 450 4MATIC,Mercedes-Benz
+GL-Class GL 550,Mercedes-Benz
+GL-Class GL 550 4MATIC,Mercedes-Benz
+GLA 250 Base 4MATIC,Mercedes-Benz
+GLA-Class GLA 250 4MATIC,Mercedes-Benz
+GLA-Class GLA 45 AMG,Mercedes-Benz
+GLB 250 Base 4MATIC,Mercedes-Benz
+GLC 300 Base,Mercedes-Benz
+GLC 300 Base 4MATIC,Mercedes-Benz
+GLC 300 GLC 300,Mercedes-Benz
+GLE 350 Base,Mercedes-Benz
+GLE 350 Base 4MATIC,Mercedes-Benz
+GLE 350 GLE 350,Mercedes-Benz
+GLE 450 GLE 450,Mercedes-Benz
+GLK-Class GLK 350,Mercedes-Benz
+GLS 450 Base,Mercedes-Benz
+GLS 450 Base 4MATIC,Mercedes-Benz
+GLS 550 Base 4MATIC,Mercedes-Benz
+GR Corolla Circuit Edition,Toyota
+GR86 Base,Toyota
+GR86 Premium,Toyota
+GS 350 Base,Lexus
+GS 350 F Sport,Lexus
+GT-R Black Edition,Nissan
+GT-R Premium,Nissan
+GTC4Lusso T,Ferrari
+GTI Base,Volkswagen
+GTO Base,Pontiac
+GV70 2.5T,Genesis
+GV70 3.5T Sport,Genesis
+GV80 2.5T,Genesis
+GX 460 Base,Lexus
+GX 460 Luxury,Lexus
+GX 460 Premium,Lexus
+GX 470 Base,Lexus
+Gallardo Base,Lamborghini
+Gallardo LP550-2,Lamborghini
+Gallardo LP560-4,Lamborghini
+Gallardo SE,Lamborghini
+Genesis 3.8,Hyundai
+Genesis 4.6,Hyundai
+Genesis 5,Hyundai
+Genesis Coupe 2.0T,Hyundai
+Genesis Coupe 2.0T R-Spec,Hyundai
+Genesis Coupe 3.8 Base,Hyundai
+Genesis Coupe 3.8 Grand Touring,Hyundai
+Genesis Coupe 3.8 R-Spec,Hyundai
+Genesis Coupe 3.8 Track,Hyundai
+Ghibli Base,Maserati
+Ghibli S GranLusso,Maserati
+Ghibli S Q4,Maserati
+Ghibli S Q4 GranSport,Maserati
+Ghost Base,Rolls-Royce
+Gladiator Freedom,Jeep
+Gladiator Mojave,Jeep
+Gladiator Overland,Jeep
+Gladiator Rubicon,Jeep
+Gladiator Sport,Jeep
+Gladiator Sport S,Jeep
+Gladiator Willys,Jeep
+Golf Alltrack TSI SE,Volkswagen
+Golf Auto TSI S,Volkswagen
+Golf GTI 2.0T Autobahn,Volkswagen
+Golf GTI 2.0T Autobahn 4-Door,Volkswagen
+Golf GTI 2.0T S 4-Door,Volkswagen
+Golf GTI 2.0T SE 4-Door,Volkswagen
+Golf GTI 2.0T SE w/Performance Package 4-Door,Volkswagen
+Golf R 20th Anniversary Edition,Volkswagen
+Golf R 4-Door,Volkswagen
+Golf R 4-Door w/DCC & Navigation,Volkswagen
+Golf R Base,Volkswagen
+Golf SportWagen TSI S 4-Door,Volkswagen
+Golf SportWagen TSI SE,Volkswagen
+GranTurismo Base,Maserati
+GranTurismo MC,Maserati
+GranTurismo Sport,Maserati
+Grand Caravan R/T,Dodge
+Grand Caravan SE,Dodge
+Grand Cherokee Altitude,Jeep
+Grand Cherokee L Laredo,Jeep
+Grand Cherokee L Limited,Jeep
+Grand Cherokee L Overland,Jeep
+Grand Cherokee L Summit,Jeep
+Grand Cherokee Laredo,Jeep
+Grand Cherokee Limited,Jeep
+Grand Cherokee Summit,Jeep
+Grand Cherokee WK Laredo X,Jeep
+Grand Wagoneer Base,Jeep
+Grand Wagoneer Series III,Jeep
+Grecale Modena,Maserati
+H2 Base,Hummer
+H2 SUT,Hummer
+H3 Base,Hummer
+HS 250h Premium,Lexus
+Hardtop Cooper,MINI
+Hardtop Cooper S,MINI
+Highlander Base,Toyota
+Highlander Hybrid Limited,Toyota
+Highlander Hybrid Limited Platinum,Toyota
+Highlander Hybrid XLE,Toyota
+Highlander LE Plus,Toyota
+Highlander Limited,Toyota
+Highlander Limited Platinum,Toyota
+Highlander Platinum,Toyota
+Highlander SE,Toyota
+Highlander XLE,Toyota
+Huracan LP610-4,Lamborghini
+ID.4 Pro S,Volkswagen
+ILX 2.0L w/Premium Package,Acura
+ILX 2.4L,Acura
+ILX Premium & A-SPEC Packages,Acura
+ILX Premium Package,Acura
+ILX Technology Plus Package,Acura
+IONIQ 5 SE,Hyundai
+IONIQ Plug-In Hybrid SEL,Hyundai
+IS 250 Base,Lexus
+IS 250C Base,Lexus
+IS 300 Base,Lexus
+IS 350 Base,Lexus
+IS 350 F Sport,Lexus
+IS-F Base,Lexus
+Impala 1LT,Chevrolet
+Impala 2LZ,Chevrolet
+Impala Base,Chevrolet
+Impreza 2.0i,Subaru
+Impreza 2.0i Premium,Subaru
+Impreza 2.0i Sport,Subaru
+Impreza Outback Sport Wagon,Subaru
+Impreza WRX,Subaru
+Impreza WRX Base,Subaru
+Impreza WRX Premium,Subaru
+Impreza WRX STI,Subaru
+Impreza WRX Sti,Subaru
+Impreza WRX Sti Special Edition,Subaru
+Insight EX,Honda
+Integra LS,Acura
+Integra w/A-Spec Tech Package,Acura
+Jetta 1.4T R-Line,Volkswagen
+Jetta 1.4T S,Volkswagen
+Jetta 1.4T SE,Volkswagen
+Jetta GLI,Volkswagen
+Jetta GLX VR6,Volkswagen
+Jetta S,Volkswagen
+Jetta SportWagen SE,Volkswagen
+Juke NISMO RS,Nissan
+Juke SL,Nissan
+Juke SV,Nissan
+K5 EX,Kia
+K5 GT-Line,Kia
+K900 5.0L,Kia
+Kicks S,Nissan
+Kona EV SEL,Hyundai
+Kona N Base,Hyundai
+LC 500 Base,Lexus
+LS 430 Base,Lexus
+LS 460 Base,Lexus
+LS 460 Crafted Line,Lexus
+LS 460 L,Lexus
+LS 500 Base,Lexus
+LS 500 F Sport,Lexus
+LS V8,Lincoln
+LX 470 Base,Lexus
+LX 570 Base,Lexus
+LX 570 Three-Row,Lexus
+LX 600 F SPORT,Lexus
+LX 600 Premium,Lexus
+LYRIQ Luxury,Cadillac
+LaCrosse Base,Buick
+LaCrosse CX,Buick
+LaCrosse Leather,Buick
+Lancer DE,Mitsubishi
+Lancer Evolution Base,Mitsubishi
+Lancer Evolution GSR,Mitsubishi
+Lancer Evolution IX,Mitsubishi
+Lancer Evolution MR,Mitsubishi
+Lancer GTS,Mitsubishi
+Lancer Sportback ES,Mitsubishi
+Land Cruiser,Toyota
+Land Cruiser Base,Toyota
+Leaf S,Nissan
+Leaf SL,Nissan
+Leaf SV PLUS,Nissan
+Legacy 2.5 GT spec.B,Subaru
+Legacy 2.5 i Premium,Subaru
+Legacy 2.5i Premium,Subaru
+Levante GTS,Maserati
+Levante Modena,Maserati
+Levante S,Maserati
+Liberty Limited,Jeep
+Liberty Renegade,Jeep
+Liberty Sport,Jeep
+Lucerne CXL,Buick
+M-Class ML 350,Mercedes-Benz
+M-Class ML 350 4MATIC,Mercedes-Benz
+M2 Base,BMW
+M2 CS,BMW
+M2 Competition,BMW
+M235 i,BMW
+M240 i,BMW
+M240 i xDrive,BMW
+M3 Base,BMW
+M3 CS,BMW
+M3 Competition,BMW
+M3 Competition xDrive,BMW
+M340 i xDrive,BMW
+M37 x,INFINITI
+M4 Base,BMW
+M4 CS,BMW
+M4 Competition,BMW
+M4 Competition xDrive,BMW
+M440 i,BMW
+M440 i xDrive,BMW
+M5 Base,BMW
+M5 Competition,BMW
+M550 i xDrive,BMW
+M56 Base,INFINITI
+M6 Base,BMW
+M6 Gran Coupe Base,BMW
+M760 M760i xDrive,BMW
+M760 i xDrive,BMW
+M8 Base,BMW
+M8 Competition,BMW
+M8 Gran Coupe Competition,BMW
+M850 i xDrive,BMW
+MDX 3.5L Technology Package,Acura
+MDX 3.5L w/Advance & Entertainment Pkgs,Acura
+MDX 3.5L w/Technology Package,Acura
+MDX 3.7L Advance,Acura
+MDX Sport,Acura
+MDX Sport Hybrid 3.0L w/Technology Package,Acura
+MDX Technology,Acura
+MDX Touring,Acura
+MDX w/Advance Package,Acura
+MDX w/Technology Package,Acura
+MKC Base,Lincoln
+MKC Reserve,Lincoln
+MKC Select,Lincoln
+MKS Base,Lincoln
+MKS EcoBoost,Lincoln
+MKT Base,Lincoln
+MKX Base,Lincoln
+MKX Black Label,Lincoln
+MKX Reserve,Lincoln
+MKZ Base,Lincoln
+MKZ Hybrid Base,Lincoln
+MKZ Reserve,Lincoln
+MKZ Reserve I,Lincoln
+MKZ Select,Lincoln
+MX-5 Miata Base,Mazda
+MX-5 Miata Club,Mazda
+MX-5 Miata Grand Touring,Mazda
+MX-5 Miata RF Club,Mazda
+MX-5 Miata RF Grand Touring,Mazda
+MX-5 Miata Shinsen,Mazda
+MX-5 Miata Sport,Mazda
+Macan,Porsche
+Macan Base,Porsche
+Macan GTS,Porsche
+Macan S,Porsche
+Macan Turbo,Porsche
+Magnum Base,Dodge
+Magnum R/T,Dodge
+Malibu 1LT,Chevrolet
+Malibu LT,Chevrolet
+Malibu LTZ,Chevrolet
+Malibu Limited LT,Chevrolet
+Malibu Premier,Chevrolet
+Marauder Base,Mercury
+Mark LT Base,Lincoln
+Martin DB7 Vantage Volante,Aston
+Martin DBS Superleggera,Aston
+Martin DBX Base,Aston
+Martin V8 Vantage Base,Aston
+Martin Vantage Base,Aston
+Martin Vantage GT Base,Aston
+Matrix XR,Toyota
+Matrix XRS,Toyota
+Maverick Lariat,Ford
+Maverick XL,Ford
+Maverick XLT,Ford
+Maxima 3.5 SR,Nissan
+Maxima GLE,Nissan
+Maxima SL,Nissan
+Maxima SV,Nissan
+Maybach S S 600,Mercedes-Benz
+Mazda3 FWD w/Preferred Package,Mazda
+Mazda3 FWD w/Premium Package,Mazda
+Mazda3 Grand Touring,Mazda
+Mazda3 Touring,Mazda
+Mazda3 i SV,Mazda
+Mazda3 i Sport,Mazda
+Mazda3 i Touring,Mazda
+Mazda3 s Sport,Mazda
+Mazda6 Carbon Edition,Mazda
+Mazda6 Grand Touring,Mazda
+Mazda6 Grand Touring Reserve,Mazda
+Mazda6 Signature,Mazda
+Mazda6 Touring,Mazda
+Mazda6 i Touring,Mazda
+Mazda6 iSport VE,Mazda
+MazdaSpeed Miata MX-5 Base,Mazda
+MazdaSpeed3 Grand Touring,Mazda
+Metris Base,Mercedes-Benz
+Mirage ES,Mitsubishi
+Mirai Base,Toyota
+Mirai Limited,Toyota
+Model 3 Base,Tesla
+Model 3 Long Range,Tesla
+Model 3 Mid Range,Tesla
+Model 3 Performance,Tesla
+Model 3 Standard Range,Tesla
+Model 3 Standard Range Plus,Tesla
+Model S 100D,Tesla
+Model S 70D,Tesla
+Model S 75D,Tesla
+Model S 85,Tesla
+Model S 85D,Tesla
+Model S 90D,Tesla
+Model S Long Range,Tesla
+Model S Long Range Plus,Tesla
+Model S P100D,Tesla
+Model S Performance,Tesla
+Model S Plaid,Tesla
+Model X 100D,Tesla
+Model X 75D,Tesla
+Model X Base,Tesla
+Model X Long Range,Tesla
+Model X Long Range Plus,Tesla
+Model X P90D,Tesla
+Model X Performance,Tesla
+Model X Plaid,Tesla
+Model Y Long Range,Tesla
+Model Y Performance,Tesla
+Monte Carlo SS,Chevrolet
+Monte Carlo Supercharged SS,Chevrolet
+Montero Limited,Mitsubishi
+Murano SL,Nissan
+Murano SV,Nissan
+Mustang Base,Ford
+Mustang Boss 302,Ford
+Mustang Bullitt,Ford
+Mustang EcoBoost,Ford
+Mustang EcoBoost Premium,Ford
+Mustang GT,Ford
+Mustang GT Premium,Ford
+Mustang Mach-E California Route 1,Ford
+Mustang Mach-E GT,Ford
+Mustang Mach-E Premium,Ford
+Mustang Mach-E Select,Ford
+Mustang Premium,Ford
+Mustang SVT Cobra,Ford
+Mustang Shelby GT500,Ford
+Mustang V6,Ford
+Mustang V6 Premium,Ford
+NSX Base,Acura
+NV Passenger NV3500 HD SL V8,Nissan
+NV Passenger NV3500 HD SV V8,Nissan
+NV200 S,Nissan
+NV200 SV,Nissan
+NX 200t Base,Lexus
+NX 300 Base,Lexus
+NX 300h Base,Lexus
+NX 350 F SPORT Handling,Lexus
+NX 350h Premium,Lexus
+Nautilus Reserve,Lincoln
+Navigator Base,Lincoln
+Navigator L,Lincoln
+Navigator L Reserve,Lincoln
+Navigator L Select,Lincoln
+Navigator Premiere,Lincoln
+Navigator Reserve,Lincoln
+Navigator Select,Lincoln
+New Beetle GLS,Volkswagen
+New Compass Trailhawk,Jeep
+Niro EV EX,Kia
+Niro EX,Kia
+Niro Plug-In Hybrid EX,Kia
+Niro Plug-In Hybrid EX Premium,Kia
+Odyssey EX-L,Honda
+Odyssey Elite,Honda
+Odyssey LX,Honda
+Optima EX,Kia
+Optima Hybrid EX,Kia
+Optima Hybrid LX,Kia
+Optima LX,Kia
+Optima S,Kia
+Optima SX Turbo,Kia
+Outback 2.5 i Special Edition,Subaru
+Outback 2.5i Limited,Subaru
+Outback 2.5i Premium,Subaru
+Outback 3.0 R VDC Limited,Subaru
+Outback 3.6R Limited,Subaru
+Outback 3.6R Touring,Subaru
+Outback Limited,Subaru
+Outback Limited XT,Subaru
+Outback Touring XT,Subaru
+Outlander SEL,Mitsubishi
+Outlander Sport 2.4 SE,Mitsubishi
+Outlander Sport ES,Mitsubishi
+Pacifica Hybrid Touring L,Chrysler
+Pacifica Launch Edition,Chrysler
+Palisade Calligraphy,Hyundai
+Palisade Limited,Hyundai
+Palisade SEL,Hyundai
+Panamera 2,Porsche
+Panamera 4,Porsche
+Panamera 4 Edition,Porsche
+Panamera 4 Platinum Edition,Porsche
+Panamera 4S,Porsche
+Panamera Base,Porsche
+Panamera Edition,Porsche
+Panamera GTS,Porsche
+Panamera Platinum Edition,Porsche
+Panamera S,Porsche
+Panamera Turbo,Porsche
+Passat 2.0T R-Line,Volkswagen
+Passat 2.0T SE,Volkswagen
+Passat 2.5 SE,Volkswagen
+Passport Elite,Honda
+Passport TrailSport,Honda
+Pathfinder Platinum,Nissan
+Pathfinder S,Nissan
+Pathfinder SL,Nissan
+Pathfinder SV,Nissan
+Pathfinder Silver,Nissan
+Patriot Latitude,Jeep
+Pilot Black Edition,Honda
+Pilot EX,Honda
+Pilot EX-L,Honda
+Pilot Elite,Honda
+Prelude Type SH,Honda
+Prius Plug-in Base,Toyota
+Prius Touring,Toyota
+Prius Two,Toyota
+Prius v Three,Toyota
+ProMaster 2500 High Roof,RAM
+ProMaster 2500 Window Van High Roof,RAM
+ProMaster 3500 High Roof,RAM
+ProMaster 3500 Tradesman,RAM
+Prowler Base,Plymouth
+Q3 2.0T Premium Plus,Audi
+Q3 45 S line Premium,Audi
+Q3 45 S line Premium Plus,Audi
+Q3 S line Premium Plus,Audi
+Q4 e-tron 50 Premium Plus,Audi
+Q4 e-tron Sportback Premium,Audi
+Q40 Base,INFINITI
+Q5 2.0T Premium,Audi
+Q5 2.0T Premium Plus,Audi
+Q5 3.0 TDI Premium Plus,Audi
+Q5 3.0T Premium Plus,Audi
+Q5 40 Premium,Audi
+Q5 Premium,Audi
+Q5 S line Premium,Audi
+Q5 S line Premium Plus,Audi
+Q50 3.0T Premium,INFINITI
+Q50 3.0t Red Sport 400,INFINITI
+Q50 3.0t Signature Edition,INFINITI
+Q50 Hybrid Premium,INFINITI
+Q50 Hybrid Sport,INFINITI
+Q50 Premium,INFINITI
+Q60 3.0T Premium,INFINITI
+Q60 3.0t Red Sport 400,INFINITI
+Q7 3.0T Premium,Audi
+Q7 3.0T Premium Plus,Audi
+Q7 3.0T Prestige,Audi
+Q7 45 Premium Plus,Audi
+Q7 55 Prestige,Audi
+Q7 Premium Plus,Audi
+Q70 3.7,INFINITI
+Q70 3.7X,INFINITI
+Q70h Base,INFINITI
+Q8 3.0T Premium,Audi
+Q8 3.0T Prestige,Audi
+Q8 55 Premium,Audi
+Q8 55 Premium Plus,Audi
+QX30 Premium,INFINITI
+QX56 Base,INFINITI
+QX60 AUTOGRAPH,INFINITI
+QX60 Base,INFINITI
+QX60 Luxe,INFINITI
+QX60 Pure,INFINITI
+QX70 Base,INFINITI
+QX80 Base,INFINITI
+QX80 Luxe,INFINITI
+QX80 SENSORY,INFINITI
+Quattroporte Base,Maserati
+Quattroporte Modena Q4,Maserati
+Quattroporte S,Maserati
+Quattroporte S GranLusso,Maserati
+Quattroporte S Q4 GranLusso,Maserati
+Quattroporte Sport GT,Maserati
+Quest SL,Nissan
+R-Class R 350 4MATIC,Mercedes-Benz
+R1S Adventure Package,Rivian
+R1S Launch Edition,Rivian
+R1T Launch Edition,Rivian
+R8 4.2 quattro Spyder,Audi
+R8 5.2,Audi
+R8 5.2 V10,Audi
+R8 5.2 V10 performance,Audi
+R8 5.2 V10 plus,Audi
+R8 5.2 quattro Spyder,Audi
+R8 Base,Audi
+RAV4 Base,Toyota
+RAV4 Hybrid XLE,Toyota
+RAV4 Prime XSE,Toyota
+RAV4 SE,Toyota
+RAV4 TRD Off Road,Toyota
+RC 350 Base,Lexus
+RC 350 F Sport,Lexus
+RC F Base,Lexus
+RDX,Acura
+RDX Advance Package,Acura
+RDX Base,Acura
+RDX PMC Edition,Acura
+RDX Technology Package,Acura
+RDX w/A-Spec Package,Acura
+RDX w/Advance Package,Acura
+RL Technology,Acura
+RLX Advance Package,Acura
+RS 3 2.5T,Audi
+RS 4 4.2 quattro L,Audi
+RS 4 Base,Audi
+RS 5 2.9T,Audi
+RS 5 4.2,Audi
+RS 7 4.0T,Audi
+RS 7 4.0T Performance Prestige,Audi
+RS 7 4.0T Prestige,Audi
+RS 7 4.0T quattro,Audi
+RS Q8 4.0T,Audi
+RS Q8 4.0T quattro,Audi
+RSX Base,Acura
+RSX Type S,Acura
+RX 300 4WD,Lexus
+RX 300 Base,Lexus
+RX 330 Base,Lexus
+RX 350 Base,Lexus
+RX 350 Crafted Line F Sport,Lexus
+RX 350 F SPORT Appearance,Lexus
+RX 350 F Sport,Lexus
+RX 350 F Sport Performance,Lexus
+RX 350 RX 350,Lexus
+RX 350 RX 350 F SPORT Handling,Lexus
+RX 450h Base,Lexus
+RX 450h F SPORT Handling,Lexus
+RX 450h F Sport,Lexus
+RX 450h F Sport Handling,Lexus
+RX-8 Grand Touring,Mazda
+RX-8 R3,Mazda
+RX-8 Sport,Mazda
+Rainier CXL,Buick
+Ram 1500 Laramie,Dodge
+Ram 1500 Laramie Mega Cab,Dodge
+Ram 1500 Quad Cab,Dodge
+Ram 1500 SLT Mega Cab,Dodge
+Ram 1500 SRT-10,Dodge
+Ram 1500 SRT-10 Quad Cab,Dodge
+Ram 1500 ST,Dodge
+Ram 2500 Laramie Quad Cab,Dodge
+Ram 2500 Quad Cab,Dodge
+Ram 2500 SLT Mega Cab,Dodge
+Ram 2500 SLT Quad Cab,Dodge
+Ram 2500 ST,Dodge
+Ram Van 1500,Dodge
+Ranger Edge SuperCab,Ford
+Ranger Lariat,Ford
+Ranger Sport SuperCab,Ford
+Ranger XLT,Ford
+Ranger XLT SuperCab,Ford
+Regal Turbo - Premium 1,Buick
+Renegade Trailhawk,Jeep
+Revero Base,Karma
+Ridgeline Black Edition,Honda
+Ridgeline RTL-E,Honda
+Rio S,Kia
+Roadmaster Estate,Buick
+Rogue S,Nissan
+Rogue SL,Nissan
+Rogue SV,Nissan
+Rogue Sport S,Nissan
+Romeo Giulia Base,Alfa
+Romeo Giulia Quadrifoglio,Alfa
+Romeo Giulia Ti,Alfa
+Romeo Stelvio Base,Alfa
+Romeo Stelvio Quadrifoglio,Alfa
+Romeo Stelvio Ti,Alfa
+Romeo Stelvio Ti Sport,Alfa
+Routan SE,Volkswagen
+Rover Defender,Land
+Rover Defender 110 SE,Land
+Rover Defender S,Land
+Rover Defender SE,Land
+Rover Defender V8,Land
+Rover Defender X,Land
+Rover Defender X-Dynamic SE,Land
+Rover Discovery HSE,Land
+Rover Discovery HSE LUXURY,Land
+Rover Discovery LSE,Land
+Rover Discovery S,Land
+Rover Discovery SE,Land
+Rover Discovery Sport HSE,Land
+Rover Discovery Sport S R-Dynamic,Land
+Rover Discovery Sport SE,Land
+Rover Discovery Sport SE R-Dynamic,Land
+Rover LR2 Base,Land
+Rover LR2 HSE,Land
+Rover LR3 HSE,Land
+Rover LR4 HSE,Land
+Rover LR4 HSE LUX Landmark Edition,Land
+Rover LR4 Lux,Land
+Rover Range Rover 3.0L Supercharged,Land
+Rover Range Rover 3.0L Supercharged HSE,Land
+Rover Range Rover 3.0L V6 Supercharged HSE,Land
+Rover Range Rover 5.0L Supercharged,Land
+Rover Range Rover 5.0L Supercharged Autobiography,Land
+Rover Range Rover 5.0L Supercharged Autobiography LWB,Land
+Rover Range Rover 5.0L V8 Supercharged,Land
+Rover Range Rover Autobiography,Land
+Rover Range Rover Evoque Base,Land
+Rover Range Rover Evoque HSE Dynamic,Land
+Rover Range Rover Evoque Pure,Land
+Rover Range Rover Evoque R-Dynamic HSE,Land
+Rover Range Rover Evoque S,Land
+Rover Range Rover Evoque SE,Land
+Rover Range Rover Evoque SE Premium,Land
+Rover Range Rover HSE,Land
+Rover Range Rover HSE SWB,Land
+Rover Range Rover P400 SE LWB 7 Seat,Land
+Rover Range Rover P400 SE SWB,Land
+Rover Range Rover P525 HSE SWB,Land
+Rover Range Rover P525 Westminster,Land
+Rover Range Rover P530 SE,Land
+Rover Range Rover P530 SE LWB 7 Seat,Land
+Rover Range Rover P530 SE SWB,Land
+Rover Range Rover SV Autobiography Dynamic SWB,Land
+Rover Range Rover SWB,Land
+Rover Range Rover Sport 3.0L Supercharged HSE,Land
+Rover Range Rover Sport 5.0L Supercharged Dynamic,Land
+Rover Range Rover Sport First Edition,Land
+Rover Range Rover Sport HSE,Land
+Rover Range Rover Sport HSE Dynamic,Land
+Rover Range Rover Sport HST MHEV,Land
+Rover Range Rover Sport P400 SE Dynamic,Land
+Rover Range Rover Sport SE MHEV,Land
+Rover Range Rover Sport SVR,Land
+Rover Range Rover Sport SVR Carbon Edition,Land
+Rover Range Rover Sport Supercharged,Land
+Rover Range Rover Sport Supercharged Dynamic,Land
+Rover Range Rover Sport Supercharged HSE,Land
+Rover Range Rover Supercharged,Land
+Rover Range Rover Supercharged LWB,Land
+Rover Range Rover Velar P250 S R-Dynamic,Land
+Rover Range Rover Velar P250 SE R-Dynamic,Land
+Rover Range Rover Velar P380 S,Land
+Rover Range Rover Velar P380 SE R-Dynamic,Land
+Rover Range Rover Velar R-Dynamic SE,Land
+Rover Range Rover Velar SVAutobiography Dynamic Edition,Land
+Rover Range Rover Westminster SWB,Land
+S-10 LS,Chevrolet
+S-10 LS Crew Cab,Chevrolet
+S-Class S 450,Mercedes-Benz
+S-Class S 450 4MATIC,Mercedes-Benz
+S-Class S 550,Mercedes-Benz
+S-Class S 550 4MATIC,Mercedes-Benz
+S-Class S 560,Mercedes-Benz
+S-Class S 560 4MATIC,Mercedes-Benz
+S-Class S 580 4MATIC,Mercedes-Benz
+S-Class S 63 AMG,Mercedes-Benz
+S-Class S 65 AMG,Mercedes-Benz
+S-Class S500,Mercedes-Benz
+S2000 Base,Honda
+S2000 CR,Honda
+S3 2.0T Premium Plus,Audi
+S3 2.0T Tech Premium Plus,Audi
+S4 3.0 Prestige,Audi
+S4 3.0T Premium,Audi
+S4 3.0T Premium Plus,Audi
+S4 4.2 quattro,Audi
+S4 Base,Audi
+S40 T5,Volvo
+S5 3.0 Premium Plus,Audi
+S5 3.0T Premium,Audi
+S5 3.0T Premium Plus,Audi
+S5 3.0T Prestige,Audi
+S5 4.2 Premium Plus,Audi
+S6 4.0T,Audi
+S6 4.0T Premium Plus,Audi
+S6 4.0T Prestige,Audi
+S60 B5 Inscription,Volvo
+S60 R,Volvo
+S60 Recharge Plug-In Hybrid T8 Inscription,Volvo
+S60 T5 Premier Plus,Volvo
+S60 T6 Momentum,Volvo
+S7 2.9T Prestige,Audi
+S7 4.0T Premium Plus,Audi
+S8 4.0T Plus,Audi
+S8 4.0T quattro,Audi
+S8 4.2 quattro,Audi
+S80 3.2,Volvo
+S80 T6,Volvo
+S90 T5 Momentum,Volvo
+SC 300 Base,Lexus
+SC 430 Base,Lexus
+SL-Class SL 550,Mercedes-Benz
+SL-Class SL 63 AMG,Mercedes-Benz
+SL-Class SL400,Mercedes-Benz
+SL-Class SL500 Roadster,Mercedes-Benz
+SL-Class SL550 Roadster,Mercedes-Benz
+SL-Class SL600 Roadster,Mercedes-Benz
+SL-Class SL63 AMG Roadster,Mercedes-Benz
+SLC 300 Base,Mercedes-Benz
+SLK-Class SLK 250,Mercedes-Benz
+SLK-Class SLK 350,Mercedes-Benz
+SLK-Class SLK230 Kompressor,Mercedes-Benz
+SLK-Class SLK280 Roadster,Mercedes-Benz
+SLK-Class SLK320,Mercedes-Benz
+SQ5 3.0T Premium,Audi
+SQ5 3.0T Premium Plus,Audi
+SQ5 3.0T Prestige,Audi
+SQ7 4.0T,Audi
+SQ8 4.0T Premium Plus,Audi
+SRX Luxury Collection,Cadillac
+SRX Performance Collection,Cadillac
+SRX Standard,Cadillac
+SSR Base,Chevrolet
+STS V6,Cadillac
+SX4 Base,Suzuki
+Santa Cruz 2.5T Limited,Hyundai
+Santa Fe GLS,Hyundai
+Santa Fe SE,Hyundai
+Santa Fe SEL,Hyundai
+Santa Fe SEL Plus 2.4,Hyundai
+Santa Fe Sport 2.0L Turbo,Hyundai
+Santa Fe Sport 2.0L Turbo Ultimate,Hyundai
+Savana 2500 Work Van,GMC
+Sebring LX,Chrysler
+Seltos S,Kia
+Sentra SR,Nissan
+Sequoia Limited,Toyota
+Sequoia Platinum,Toyota
+Sequoia SR5,Toyota
+Sequoia TRD Pro,Toyota
+Shelby GT350 Base,Ford
+Shelby GT350R Base,Ford
+Shelby GT500 Base,Ford
+Sienna LE,Toyota
+Sienna XLE Limited,Toyota
+Sienna XSE 25th Anniversary,Toyota
+Sierra 1500 AT4,GMC
+Sierra 1500 Denali,GMC
+Sierra 1500 Denali Ultimate,GMC
+Sierra 1500 Limited Elevation,GMC
+Sierra 1500 SL Crew Cab,GMC
+Sierra 1500 SLE,GMC
+Sierra 1500 SLE Crew Cab,GMC
+Sierra 1500 SLT,GMC
+Sierra 2500 AT4,GMC
+Sierra 2500 Base,GMC
+Sierra 2500 Denali,GMC
+Sierra 2500 SLE,GMC
+Sierra 2500 SLE H/D Extended Cab,GMC
+Sierra 3500 Denali,GMC
+Sierra 3500 SLE,GMC
+Silverado 1500 1LT,Chevrolet
+Silverado 1500 1LZ,Chevrolet
+Silverado 1500 2LT,Chevrolet
+Silverado 1500 Base,Chevrolet
+Silverado 1500 Custom Trail Boss,Chevrolet
+Silverado 1500 High Country,Chevrolet
+Silverado 1500 Hybrid 1HY,Chevrolet
+Silverado 1500 LS,Chevrolet
+Silverado 1500 LT,Chevrolet
+Silverado 1500 LT Crew Cab,Chevrolet
+Silverado 1500 LT Extended Cab,Chevrolet
+Silverado 1500 LT Trail Boss,Chevrolet
+Silverado 1500 LTZ,Chevrolet
+Silverado 1500 Limited Custom,Chevrolet
+Silverado 1500 Limited High Country,Chevrolet
+Silverado 1500 Limited LT Trail Boss,Chevrolet
+Silverado 1500 RST,Chevrolet
+Silverado 1500 W/T,Chevrolet
+Silverado 1500 Z71 Extended Cab,Chevrolet
+Silverado 1500 ZR2,Chevrolet
+Silverado 2500 H/D,Chevrolet
+Silverado 2500 High Country,Chevrolet
+Silverado 2500 LT,Chevrolet
+Silverado 2500 LT H/D Extended Cab,Chevrolet
+Silverado 2500 LTZ,Chevrolet
+Silverado 2500 LTZ H/D Extended Cab,Chevrolet
+Silverado 2500 WT,Chevrolet
+Silverado 3500 High Country,Chevrolet
+Silverado 3500 LTZ,Chevrolet
+Sky Base,Saturn
+Sky Red Line,Saturn
+Solstice Base,Pontiac
+Solstice GXP,Pontiac
+Sonata GLS,Hyundai
+Sonata Hybrid Base,Hyundai
+Sonata Hybrid Limited,Hyundai
+Sonata SE,Hyundai
+Sonata Sport,Hyundai
+Sonata Sport 2.0T,Hyundai
+Sorento EX,Kia
+Sorento EX V6,Kia
+Sorento Hybrid EX,Kia
+Sorento LX,Kia
+Sorento LX V6,Kia
+Sorento Plug-In Hybrid SX,Kia
+Sorento Plug-In Hybrid SX Prestige,Kia
+Sorento S,Kia
+Sorento SX,Kia
+Sorento SX Prestige,Kia
+Sorento SXL,Kia
+Sportage LX,Kia
+Sportage Nightfall,Kia
+Sportage Plug-In Hybrid X-Line,Kia
+Sportage S,Kia
+Sportage SX Turbo,Kia
+Sportage X-Pro,Kia
+Sprinter 2500,Dodge
+Sprinter 2500,Mercedes-Benz
+Sprinter 2500 High Roof,Dodge
+Sprinter 2500 Standard Roof,Mercedes-Benz
+Sprinter 3500 High Roof,Mercedes-Benz
+Sprinter 3500XD High Roof,Mercedes-Benz
+Sprinter 4500 High Roof,Mercedes-Benz
+Sprinter High Roof,Mercedes-Benz
+Sprinter Normal Roof,Mercedes-Benz
+Stinger GT,Kia
+Stinger GT1,Kia
+Stinger GT2,Kia
+Suburban 1500 LS,Chevrolet
+Suburban 1500 LT,Chevrolet
+Suburban 1500 LTZ,Chevrolet
+Suburban 2500,GMC
+Suburban 2500 LS,Chevrolet
+Suburban High Country,Chevrolet
+Suburban LT,Chevrolet
+Suburban LTZ,Chevrolet
+Suburban Premier,Chevrolet
+Suburban RST,Chevrolet
+Suburban Z71,Chevrolet
+Supra 3.0 Premium,Toyota
+Supra A91 Edition,Toyota
+Supra A91-MT Edition,Toyota
+TL 3.2,Acura
+TL 3.7,Acura
+TL Technology,Acura
+TL Type S,Acura
+TLX,Acura
+TLX A-Spec,Acura
+TLX Base,Acura
+TLX PMC Edition,Acura
+TLX Tech,Acura
+TLX Type S PMC Edition,Acura
+TLX Type S w/Performance Tire,Acura
+TLX V6 Advance,Acura
+TLX V6 Tech,Acura
+TLX w/A-Spec Package,Acura
+TSX 2.4,Acura
+TSX Base,Acura
+TSX Technology,Acura
+TT 1.8L,Audi
+TT 1.8T,Audi
+TT 2.0T,Audi
+TT 2.0T Premium,Audi
+TT 3.2 Cabriolet quattro,Audi
+TT RS 2.5T,Audi
+TT RS Base,Audi
+TT Roadster quattro,Audi
+TTS 2.0T Premium Plus,Audi
+Tacoma Base,Toyota
+Tacoma Double Cab,Toyota
+Tacoma PreRunner,Toyota
+Tacoma SR,Toyota
+Tacoma SR5,Toyota
+Tacoma TRD Pro,Toyota
+Tacoma TRD Sport,Toyota
+Tahoe Base,Chevrolet
+Tahoe High Country,Chevrolet
+Tahoe LS,Chevrolet
+Tahoe LT,Chevrolet
+Tahoe LTZ,Chevrolet
+Tahoe Premier,Chevrolet
+Tahoe RST,Chevrolet
+Taurus SHO,Ford
+Taurus X Limited,Ford
+Taycan 4S,Porsche
+Taycan Base,Porsche
+Taycan Turbo,Porsche
+Telluride EX,Kia
+Telluride EX X-Line,Kia
+Telluride LX,Kia
+Telluride S,Kia
+Telluride SX,Kia
+Terrain Denali,GMC
+Terrain SLE,GMC
+Terrain SLT,GMC
+Terrain SLT-1,GMC
+Thunderbird Deluxe,Ford
+Thunderbird Premium,Ford
+Tiguan 2.0T SE,Volkswagen
+Tiguan 2.0T SEL Premium R-Line,Volkswagen
+Titan S,Nissan
+Titan SE,Nissan
+Titan SL,Nissan
+Titan SV,Nissan
+Titan XD S,Nissan
+Titan XD SV,Nissan
+Touareg TDI Lux,Volkswagen
+Touareg V6 Executive,Volkswagen
+Touareg VR6 Lux,Volkswagen
+Town & Country LX,Chrysler
+Town & Country Touring,Chrysler
+Town & Country Touring-L,Chrysler
+Town Car Base,Lincoln
+Town Car Signature,Lincoln
+Trailblazer LS,Chevrolet
+Trailblazer LT,Chevrolet
+Trailblazer RS,Chevrolet
+Trailblazer SS,Chevrolet
+Transit Connect XL,Ford
+Transit Connect XL w/Rear Symmetrical Doors,Ford
+Transit Connect XLT,Ford
+Transit-250 Base,Ford
+Transit-350 Base,Ford
+Transit-350 XL,Ford
+Transit-350 XLT,Ford
+Traverse High Country,Chevrolet
+Traverse LS,Chevrolet
+Traverse Premier,Chevrolet
+Traverse RS,Chevrolet
+Trax LS,Chevrolet
+Tucson Hybrid SEL Convenience,Hyundai
+Tucson Limited,Hyundai
+Tucson SE,Hyundai
+Tucson SEL,Hyundai
+Tundra 1794,Toyota
+Tundra Grade,Toyota
+Tundra Hybrid Capstone,Toyota
+Tundra Hybrid Limited,Toyota
+Tundra Hybrid TRD Pro,Toyota
+Tundra Limited,Toyota
+Tundra Platinum,Toyota
+Tundra SR,Toyota
+Tundra SR5,Toyota
+Tundra SR5 Access Cab,Toyota
+Tundra SR5 Double Cab,Toyota
+Tundra TRD Pro,Toyota
+Type 57 Base,Maybach
+Utility Police Interceptor Base,Ford
+V60 Cross Country T5,Volvo
+V60 T6 R-Design Platinum,Volvo
+Veloster Base,Hyundai
+Veloster Turbo R-Spec,Hyundai
+Veloster Value Edition,Hyundai
+Venza XLE,Toyota
+Verano Convenience,Buick
+Versa 1.6 SL,Nissan
+Versa 1.8 S,Nissan
+Viper SRT-10,Dodge
+Vue Hybrid Base,Saturn
+WRX Base,Subaru
+WRX Limited,Subaru
+WRX Premium,Subaru
+WRX STI Base,Subaru
+Wagoneer Series II 4x4,Jeep
+Wagoneer Series III,Jeep
+Wrangler 80th Anniversary,Jeep
+Wrangler Rubicon,Jeep
+Wrangler Rubicon Hard Rock,Jeep
+Wrangler SE,Jeep
+Wrangler Sahara,Jeep
+Wrangler Sahara Altitude,Jeep
+Wrangler Sport,Jeep
+Wrangler Unlimited,Jeep
+Wrangler Unlimited 4xe Sahara,Jeep
+Wrangler Unlimited Freedom Edition,Jeep
+Wrangler Unlimited Rubicon,Jeep
+Wrangler Unlimited Rubicon 392,Jeep
+Wrangler Unlimited Sahara,Jeep
+Wrangler Unlimited Sport,Jeep
+Wrangler Unlimited Sport S,Jeep
+Wrangler Unlimited X,Jeep
+Wrangler X,Jeep
+X1 sDrive28i,BMW
+X1 xDrive 28i,BMW
+X1 xDrive28i,BMW
+X2 xDrive28i,BMW
+X3 M AWD,BMW
+X3 M40i,BMW
+X3 sDrive30i,BMW
+X3 xDrive28i,BMW
+X3 xDrive30i,BMW
+X3 xDrive35i,BMW
+X4 M Competition,BMW
+X4 M40i,BMW
+X4 xDrive30i,BMW
+X5 3.0i,BMW
+X5 3.0si,BMW
+X5 M Base,BMW
+X5 M50i,BMW
+X5 PHEV xDrive45e,BMW
+X5 eDrive xDrive40e,BMW
+X5 sDrive35i,BMW
+X5 xDrive 35i Sport Activity,BMW
+X5 xDrive35i,BMW
+X5 xDrive40i,BMW
+X5 xDrive50i,BMW
+X6 M Base,BMW
+X6 M50i,BMW
+X6 sDrive35i,BMW
+X6 xDrive35i,BMW
+X6 xDrive40i,BMW
+X6 xDrive50i,BMW
+X7 ALPINA XB7,BMW
+X7 M50i,BMW
+X7 xDrive40i,BMW
+X7 xDrive50i,BMW
+XC40 T5 Momentum,Volvo
+XC60 3.2,Volvo
+XC60 Recharge Plug-In Hybrid T8 Inscription,Volvo
+XC60 T5 R-Design,Volvo
+XC60 T6 Inscription,Volvo
+XC70 3.2,Volvo
+XC70 T6 Platinum,Volvo
+XC90 3.2,Volvo
+XC90 3.2 Premier Plus,Volvo
+XC90 Hybrid T8 Inscription,Volvo
+XC90 Hybrid T8 R-Design,Volvo
+XC90 Recharge Plug-In Hybrid T8 Inscription 7 Passenger,Volvo
+XC90 T6 Inscription,Volvo
+XC90 T6 Momentum,Volvo
+XE 20d Prestige,Jaguar
+XE 25t,Jaguar
+XE 35t Premium,Jaguar
+XF 25t Premium,Jaguar
+XF 25t Prestige,Jaguar
+XF 3.0 Portfolio,Jaguar
+XF 35t Prestige,Jaguar
+XF 35t R-Sport,Jaguar
+XF Luxury,Jaguar
+XF Premium,Jaguar
+XF S,Jaguar
+XF XFR-S,Jaguar
+XJ Base,Jaguar
+XJ Vanden Plas,Jaguar
+XJ8 Base,Jaguar
+XJ8 L,Jaguar
+XK Base,Jaguar
+XK R,Jaguar
+XK8 Base,Jaguar
+XKR Base,Jaguar
+XLR Base,Cadillac
+XLR V,Cadillac
+XT4 Sport,Cadillac
+XT5 Base,Cadillac
+XT5 Luxury,Cadillac
+XT5 Premium Luxury,Cadillac
+XT6 Premium Luxury AWD,Cadillac
+XT6 Sport AWD,Cadillac
+XTS Luxury,Cadillac
+XTS Premium,Cadillac
+Xterra Pro-4X,Nissan
+Xterra S,Nissan
+Yaris Base,Toyota
+Yaris L,Toyota
+Yukon Denali,GMC
+Yukon Denali Ultimate,GMC
+Yukon SLE,GMC
+Yukon SLT,GMC
+Yukon XL 1500 SLT,GMC
+Yukon XL AT4,GMC
+Yukon XL Denali,GMC
+Yukon XL SLT,GMC
+Z Proto Spec,Nissan
+Z3 3.0i Roadster,BMW
+Z4 2.5i,BMW
+Z4 2.5i Roadster,BMW
+Z4 3.0i Roadster,BMW
+Z4 3.0si,BMW
+Z4 sDrive28i,BMW
+Z4 sDrive35is,BMW
+ZDX Base,Acura
+allroad 2.0T Prestige,Audi
+allroad 2.7T,Audi
+e-Golf SE,Volkswagen
+e-tron Prestige,Audi
+i3 120Ah w/Range Extender,BMW
+i3 94 Ah,BMW
+i3 Base,BMW
+i3 Base w/Range Extender,BMW
+i8 Base,BMW
+tC Anniversary Edition,Scion
+tC Base,Scion
+tC Release Series 6.0,Scion
+xB Base,Scion
