@@ -7,7 +7,7 @@ import joblib
 from sklearn.model_selection import KFold, cross_val_score
 import numpy as np
 
-# 1. Cargar datos
+# Cargar datos
 df = pd.read_csv("data/final_dataset.csv")
 features = [
     'age', 'milage', 'accident', 'engine_hp',
@@ -16,10 +16,10 @@ features = [
 X = df[features]
 y = df['price']
 
-# 2. Dividir train/test
+# Dividir train/test
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-# 3. Definir modelo y espacio de búsqueda
+# Definir modelo y espacio de búsqueda
 rf = RandomForestRegressor(random_state=30)
 param_distributions = {
     'n_estimators': randint(100, 500),
@@ -28,7 +28,7 @@ param_distributions = {
     'min_samples_leaf': randint(1, 20),
 }
 
-# 4. Tuning con RandomizedSearchCV
+# Tuning con RandomizedSearchCV
 random_search = RandomizedSearchCV(
     rf,
     param_distributions=param_distributions,
@@ -88,5 +88,5 @@ print("R² por fold:", cv_scores)
 print(f"R² promedio: {np.mean(cv_scores):.4f}")
 print(f"Desviación estándar: {np.std(cv_scores):.4f}")
 
-# 6. Guardar modelo entrenado
+# Guardar modelo entrenado
 joblib.dump(best_model, "models/random_forest_best.pkl")
