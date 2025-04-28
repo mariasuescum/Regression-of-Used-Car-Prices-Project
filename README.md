@@ -129,6 +129,8 @@ Es una interfaz fácil e intuitiva hecho con Gradio y desplegado en render.com
 
 ![Interfaz gráfica con Gradio](images/desplegado_render.png)
 
+[Puedes ver la Demo en este link](https://www.canva.com/design/DAGl5tpVsGs/i5YjWRLp_xYKz8Vm6MWyBQ/edit?utm_content=DAGl5tpVsGs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 Para ponerlo en marcha desde el terminal:
 ```bash
 python gradio_app/main.py
